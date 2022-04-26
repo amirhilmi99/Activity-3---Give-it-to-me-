@@ -1,0 +1,2632 @@
+#SYMBOLS
+Index	Identifier	Type	Flag	Data	Size	RefCount
+0	__signed_stack_001distance2	6	1	0	4	22
+1	__D0distance3	6	1	4	4	43
+2	__signed_stack_002distance1	6	1	8	4	10
+3	__D0homescreen	6	1	12	4	35
+4	__signed_stack_001distance3	6	1	16	4	22
+5	__D0distance1	6	1	20	4	43
+6	__signed_stack_002distance2	6	1	24	4	10
+7	__D0distance2	6	1	28	4	43
+8	__signed_stack_001angle1	6	1	32	4	22
+9	__signed_stack_001displayAll	6	1	36	4	22
+10	__signed_stack_002angle3	6	1	40	4	10
+11	__signed_stack_001distance1	6	1	44	4	22
+12	__signed_stack_002displayAll	6	1	48	4	18
+13	__signed_stack_001angle2	6	1	52	4	22
+14	__signed_stack_002angle1	6	1	56	4	10
+15	__signed_stack_001angle3	6	1	60	4	22
+16	__signed_stack_002angle2	6	1	64	4	10
+17	__RBtnMutex	9	0	68	4	56
+18	__PointOutMutex	9	0	72	4	42
+19	__Wait_7qG2_ms_7qG2_000_inline_distance1	5	1	76	4	4
+20	__Wait_7qG2_ms_7qG2_000_inline_angle2	5	1	80	4	4
+21	__TextOutMutex	9	0	84	4	96
+22	__Wait_7qG2_ms_7qG2_000_inline_distance3	5	1	88	4	4
+23	__Wait_7qG2_ms_7qG2_000_inline_distance2	5	1	92	4	4
+24	__Wait_7qG2_ms_7qG2_000_inline_angle3	5	1	96	4	4
+25	__Wait_7qG2_ms_7qG2_000_inline_angle1	5	1	100	4	4
+26	__signed_stack_001homescreen	6	1	104	4	26
+27	__D0angle3	6	1	108	4	43
+28	__signed_stack_002distance3	6	1	112	4	10
+29	__D0displayAll	6	1	116	4	39
+30	__Wait_7qG2_ms_7qG2_000_inline_homescreen	5	1	120	4	16
+31	__D0angle1	6	1	124	4	43
+32	__signed_stack_002homescreen	6	1	128	4	18
+33	__D0angle2	6	1	132	4	43
+34	a2	4	1	136	2	8
+35	d3	4	1	138	2	8
+36	a3	4	1	140	2	8
+37	d2	4	1	142	2	8
+38	i	4	1	144	2	6
+39	d1	4	1	146	2	8
+40	a1	4	1	148	2	8
+41	__constVal200	4	0	150	2	42
+42	__distance3_return	1	1	152	1	3
+43	__reset_return	1	1	153	1	3
+44	__homescreen_return	1	1	154	1	3
+45	__distance2_return	1	1	155	1	3
+46	__angle3_return	1	1	156	1	3
+47	__angle2_return	1	1	157	1	3
+48	__PFTmp	1	1	158	1	1
+49	__distance1_return	1	1	159	1	3
+50	____initialize_global_data_return	1	1	160	1	3
+51	__constVal1	2	0	161	1	22
+52	__angle1_return	1	1	162	1	3
+53	__displayAll_return	1	1	163	1	3
+54	__RBtnArgs	8	0	5	8	112
+55	__RBtnArgs.Result	2	1	164	1	112
+56	__RBtnArgs.Index	1	1	165	1	112
+57	__RBtnArgs.Pressed	1	1	166	1	112
+58	__RBtnArgs.Count	1	1	167	1	112
+59	__RBtnArgs.Reset	1	1	168	1	112
+60	__TextOutArgs	8	0	4	16	288
+61	__TextOutArgs.Result	2	1	172	1	288
+62	__TextOutArgs.Location	8	0	2	4	288
+63	__TextOutArgs.Location.X	4	1	176	2	288
+64	__TextOutArgs.Location.Y	4	1	178	2	288
+65	__TextOutArgs.Text	7	0	180	4	288
+66	__TextOutArgs.Text.Text_type	1	0	0	1	0
+67	__TextOutArgs.Options	5	1	184	4	288
+68	__PointOutArgs	8	0	3	12	84
+69	__PointOutArgs.Result	2	1	188	1	84
+70	__PointOutArgs.Location	8	0	2	4	84
+71	__PointOutArgs.Location.X	4	1	192	2	84
+72	__PointOutArgs.Location.Y	4	1	194	2	84
+73	__PointOutArgs.Options	5	1	196	4	84
+74	__constStr0020	7	0	200	4	3
+75	__constStr0020.__constStr0020_type	1	1	0	1	0
+76	__constStr0024	7	0	202	4	1
+77	__constStr0024.__constStr0024_type	1	1	0	1	0
+78	__constStr0025	7	0	204	4	1
+79	__constStr0025.__constStr0025_type	1	1	0	1	0
+80	__constStr0026	7	0	206	4	1
+81	__constStr0026.__constStr0026_type	1	1	0	1	0
+82	__constStr0021	7	0	208	4	3
+83	__constStr0021.__constStr0021_type	1	1	0	1	0
+84	__constStr0022	7	0	210	4	3
+85	__constStr0022.__constStr0022_type	1	1	0	1	0
+86	__constStr0023	7	0	212	4	3
+87	__constStr0023.__constStr0023_type	1	1	0	1	0
+88	__constStr0019	7	0	214	4	3
+89	__constStr0019.__constStr0019_type	1	1	0	1	0
+90	__strbufangle2	7	0	216	4	6
+91	__strbufangle2.__strbufangle2_type	1	0	0	1	0
+92	__strbufangle3	7	0	218	4	6
+93	__strbufangle3.__strbufangle3_type	1	0	0	1	0
+94	__strbufangle1	7	0	220	4	6
+95	__strbufangle1.__strbufangle1_type	1	0	0	1	0
+96	__constStr0009	7	0	222	4	1
+97	__constStr0009.__constStr0009_type	1	1	0	1	0
+98	__strbufdisplayAll	7	0	224	4	6
+99	__strbufdisplayAll.__strbufdisplayAll_type	1	0	0	1	0
+100	__strbufdistance3	7	0	226	4	6
+101	__strbufdistance3.__strbufdistance3_type	1	0	0	1	0
+102	__strbufhomescreen	7	0	228	4	18
+103	__strbufhomescreen.__strbufhomescreen_type	1	0	0	1	0
+104	__strbufdistance1	7	0	230	4	6
+105	__strbufdistance1.__strbufdistance1_type	1	0	0	1	0
+106	__strbufdistance2	7	0	232	4	6
+107	__strbufdistance2.__strbufdistance2_type	1	0	0	1	0
+108	__constStr0016	7	0	234	4	1
+109	__constStr0016.__constStr0016_type	1	1	0	1	0
+110	__constStr0015	7	0	236	4	1
+111	__constStr0015.__constStr0015_type	1	1	0	1	0
+112	__constStr0018	7	0	238	4	3
+113	__constStr0018.__constStr0018_type	1	1	0	1	0
+114	__constStr0017	7	0	240	4	1
+115	__constStr0017.__constStr0017_type	1	1	0	1	0
+116	__constStr0014	7	0	242	4	1
+117	__constStr0014.__constStr0014_type	1	1	0	1	0
+118	__constStr0011	7	0	244	4	1
+119	__constStr0011.__constStr0011_type	1	1	0	1	0
+120	__constStr0010	7	0	246	4	1
+121	__constStr0010.__constStr0010_type	1	1	0	1	0
+122	__constStr0013	7	0	248	4	1
+123	__constStr0013.__constStr0013_type	1	1	0	1	0
+124	__constStr0012	7	0	250	4	1
+125	__constStr0012.__constStr0012_type	1	1	0	1	0
+#SOURCES
+Clump	Line	PC	Source
+0	281	0	#line 281 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	282	0		subcall __initialize_global_data, ____initialize_global_data_return
+0	281	2	#line 281 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	282	2	#line 282 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	283	2		subcall reset, __reset_return
+0	282	4	#line 282 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	283	4	#line 283 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	284	4		subcall homescreen, __homescreen_return
+0	283	6	#line 283 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	284	6	#line 284 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	285	6		subcall angle1, __angle1_return
+0	284	8	#line 284 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	285	8	#line 285 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	286	8		subcall distance1, __distance1_return
+0	285	10	#line 285 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	286	10	#line 286 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	287	10		subcall angle2, __angle2_return
+0	286	12	#line 286 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	287	12	#line 287 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	288	12		subcall distance2, __distance2_return
+0	287	14	#line 287 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	288	14	#line 288 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	289	14		subcall angle3, __angle3_return
+0	288	16	#line 288 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	289	16	#line 289 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	290	16		subcall distance3, __distance3_return
+0	289	18	#line 289 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	290	18	#line 290 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	291	18		subcall displayAll, __displayAll_return
+0	290	20	#line 290 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+0	291	20		exit -1, -1
+1	12	0	#line 12 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	13	0		set d1, 0
+1	12	3	#line 12 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	12	3	#line 12 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	13	3	#line 13 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	14	3		set a1, 0
+1	13	6	#line 13 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	13	6	#line 13 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	14	6	#line 14 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	15	6		set d2, 0
+1	14	9	#line 14 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	14	9	#line 14 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	15	9	#line 15 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	16	9		set a2, 0
+1	15	12	#line 15 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	15	12	#line 15 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	16	12	#line 16 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	17	12		set d3, 0
+1	16	15	#line 16 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	16	15	#line 16 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	17	15	#line 17 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	18	15		set a3, 0
+1	17	18	#line 17 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	17	18	#line 17 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	20	18	#line 20 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+1	21	18		subret __reset_return
+2	24	0	#line 24 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	25	0		set i, 1
+2	24	3	#line 24 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	24	3	#line 24 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	6678	3	#line 6678 "NXCDefs.h"
+2	6679	3	#pragma macro 6
+2	6679	3		acquire __PointOutMutex
+2	6679	4		mov __PointOutArgs.Location.X, __constVal200
+2	6679	6		mov __PointOutArgs.Location.Y, __constVal200
+2	6679	8		mov __PointOutArgs.Options, __constVal1
+2	6679	10		syscall 14, __PointOutArgs
+2	6679	13		release __PointOutMutex
+2	4558	14	#line 4558 "NXCDefs.h"
+2	6678	14	#line 6678 "NXCDefs.h"
+2	25	14	#line 25 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	25	14	#line 25 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	26	14		set __signed_stack_001homescreen, 0
+2	25	17	#line 25 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	25	17	#line 25 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	26	17		set __signed_stack_002homescreen, 56
+2	25	20	#line 25 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	25	20	#line 25 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	26	20		strcat __strbufhomescreen, __constStr0009
+2	26	24	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	24		acquire __TextOutMutex
+2	26	25	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	25		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	26	27	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	27		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	26	29	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	29		set __TextOutArgs.Options, 0
+2	26	32	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	32		mov __TextOutArgs.Text, __strbufhomescreen
+2	26	34	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	34		syscall 13, __TextOutArgs
+2	26	37	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	37		mov __D0homescreen, __TextOutArgs.Result
+2	26	39	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	39		release __TextOutMutex
+2	26	40	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	26	40	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	40		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 500
+2	26	43	#line 26 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	43	#line 8551 "NXCDefs.h"
+2	8552	43		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	46	#line 8551 "NXCDefs.h"
+2	27	46	#line 27 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	46	#line 27 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	28	46		set __signed_stack_001homescreen, 0
+2	27	49	#line 27 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	49	#line 27 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	28	49		set __signed_stack_002homescreen, 40
+2	27	52	#line 27 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	27	52	#line 27 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	28	52		strcat __strbufhomescreen, __constStr0010
+2	28	56	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	56		acquire __TextOutMutex
+2	28	57	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	57		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	28	59	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	59		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	28	61	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	61		set __TextOutArgs.Options, 0
+2	28	64	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	64		mov __TextOutArgs.Text, __strbufhomescreen
+2	28	66	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	66		syscall 13, __TextOutArgs
+2	28	69	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	69		mov __D0homescreen, __TextOutArgs.Result
+2	28	71	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	71		release __TextOutMutex
+2	28	72	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	28	72	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	72		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 500
+2	28	75	#line 28 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	75	#line 8551 "NXCDefs.h"
+2	8552	75		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	78	#line 8551 "NXCDefs.h"
+2	29	78	#line 29 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	78	#line 29 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	30	78		set __signed_stack_001homescreen, 0
+2	29	81	#line 29 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	81	#line 29 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	30	81		set __signed_stack_002homescreen, 24
+2	29	84	#line 29 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	29	84	#line 29 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	30	84		strcat __strbufhomescreen, __constStr0011
+2	30	88	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	88		acquire __TextOutMutex
+2	30	89	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	89		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	30	91	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	91		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	30	93	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	93		set __TextOutArgs.Options, 0
+2	30	96	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	96		mov __TextOutArgs.Text, __strbufhomescreen
+2	30	98	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	98		syscall 13, __TextOutArgs
+2	30	101	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	101		mov __D0homescreen, __TextOutArgs.Result
+2	30	103	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	103		release __TextOutMutex
+2	30	104	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	30	104	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	31	104		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 500
+2	30	107	#line 30 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	107	#line 8551 "NXCDefs.h"
+2	8552	107		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	110	#line 8551 "NXCDefs.h"
+2	32	110	#line 32 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	32	110	#line 32 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	33	110		set __signed_stack_001homescreen, 3
+2	32	113	#line 32 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	32	113	#line 32 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	33	113		set __D0homescreen, 1
+2	33	116	#line 33 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	116		acquire __RBtnMutex
+2	33	117	#line 33 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	117		mov __RBtnArgs.Index, __signed_stack_001homescreen
+2	33	119	#line 33 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	119		mov __RBtnArgs.Reset, __D0homescreen
+2	33	121	#line 33 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	121		syscall 20, __RBtnArgs
+2	33	124	#line 33 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	124		mov __D0homescreen, __RBtnArgs.Pressed
+2	33	126	#line 33 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	126		release __RBtnMutex
+2	33	127	#line 33 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	127		not __D0homescreen, __D0homescreen
+2	34	130	#line 34 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	35	130		tst 5, __D0homescreen, __D0homescreen
+2	34	133	#line 34 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	35	133		brtst 4, __ASM_Label_522, __D0homescreen
+2	34	136	#line 34 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	35	136		set __signed_stack_001homescreen, 8
+2	34	139	#line 34 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	139	#line 34 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	35	139		set __signed_stack_002homescreen, 8
+2	34	142	#line 34 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	34	142	#line 34 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	35	142		strcat __strbufhomescreen, __constStr0012
+2	35	146	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	146		acquire __TextOutMutex
+2	35	147	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	147		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	35	149	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	149		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	35	151	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	151		set __TextOutArgs.Options, 0
+2	35	154	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	154		mov __TextOutArgs.Text, __strbufhomescreen
+2	35	156	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	156		syscall 13, __TextOutArgs
+2	35	159	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	159		mov __D0homescreen, __TextOutArgs.Result
+2	35	161	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	161		release __TextOutMutex
+2	35	162	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	35	162	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	162		mov __signed_stack_001homescreen, i
+2	35	164	#line 35 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	36	164	#line 36 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	37	164		set __D0homescreen, 8
+2	36	167	#line 36 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	37	167		cmp 1, __D0homescreen, __signed_stack_001homescreen, __D0homescreen
+2	37	171	#line 37 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	171		brtst 4, __ASM_Label_535, __D0homescreen
+2	37	174	#line 37 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	174		mov __signed_stack_001homescreen, i
+2	37	176	#line 37 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	37	176	#line 37 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	176		set __D0homescreen, 16
+2	37	179	#line 37 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	179		cmp 4, __D0homescreen, __signed_stack_001homescreen, __D0homescreen
+2	37	183	#line 37 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	183		brtst 4, __ASM_Label_538, __D0homescreen
+2	38	186	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	39	186		set i, 1
+2	38	189	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	189	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	189	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	189	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	39	189		set __signed_stack_001homescreen, 0
+2	38	192	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	192	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	39	192		set __signed_stack_002homescreen, 8
+2	38	195	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	38	195	#line 38 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	39	195		strcat __strbufhomescreen, __constStr0013
+2	39	199	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	199		acquire __TextOutMutex
+2	39	200	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	200		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	39	202	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	202		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	39	204	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	204		set __TextOutArgs.Options, 0
+2	39	207	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	207		mov __TextOutArgs.Text, __strbufhomescreen
+2	39	209	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	209		syscall 13, __TextOutArgs
+2	39	212	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	212		mov __D0homescreen, __TextOutArgs.Result
+2	39	214	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	40	214		release __TextOutMutex
+2	39	215	#line 39 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	41	215	#line 41 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	41	215	#line 41 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	42	215		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 50
+2	41	218	#line 41 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	218	#line 8551 "NXCDefs.h"
+2	8552	218		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	221	#line 8551 "NXCDefs.h"
+2	42	221	#line 42 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	43	221	#line 43 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	44	221		add i, i, __constVal1
+2	43	225	#line 43 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	44	225	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	225		jmp __ASM_Label_521
+2	44	227	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	44	227	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	227		set __signed_stack_001homescreen, 3
+2	44	230	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	44	230	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	230		set __D0homescreen, 1
+2	44	233	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	233		acquire __RBtnMutex
+2	44	234	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	234		mov __RBtnArgs.Index, __signed_stack_001homescreen
+2	44	236	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	236		mov __RBtnArgs.Reset, __D0homescreen
+2	44	238	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	238		syscall 20, __RBtnArgs
+2	44	241	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	241		mov __D0homescreen, __RBtnArgs.Pressed
+2	44	243	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	243		release __RBtnMutex
+2	44	244	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	244		not __D0homescreen, __D0homescreen
+2	44	247	#line 44 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	247		not __D0homescreen, __D0homescreen
+2	45	250	#line 45 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	46	250		tst 5, __D0homescreen, __D0homescreen
+2	45	253	#line 45 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	46	253		brtst 4, __ASM_Label_548, __D0homescreen
+2	45	256	#line 45 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	45	256	#line 45 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	46	256		jmp __ASM_Label_547
+2	45	258	#line 45 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	6678	258	#line 6678 "NXCDefs.h"
+2	6679	258	#pragma macro 6
+2	6679	258		acquire __PointOutMutex
+2	6679	259		mov __PointOutArgs.Location.X, __constVal200
+2	6679	261		mov __PointOutArgs.Location.Y, __constVal200
+2	6679	263		mov __PointOutArgs.Options, __constVal1
+2	6679	265		syscall 14, __PointOutArgs
+2	6679	268		release __PointOutMutex
+2	4864	269	#line 4864 "NXCDefs.h"
+2	6678	269	#line 6678 "NXCDefs.h"
+2	46	269	#line 46 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	46	269	#line 46 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	47	269		set __signed_stack_001homescreen, 0
+2	46	272	#line 46 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	46	272	#line 46 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	47	272		set __signed_stack_002homescreen, 48
+2	46	275	#line 46 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	46	275	#line 46 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	47	275		strcat __strbufhomescreen, __constStr0014
+2	47	279	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	279		acquire __TextOutMutex
+2	47	280	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	280		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	47	282	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	282		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	47	284	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	284		set __TextOutArgs.Options, 0
+2	47	287	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	287		mov __TextOutArgs.Text, __strbufhomescreen
+2	47	289	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	289		syscall 13, __TextOutArgs
+2	47	292	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	292		mov __D0homescreen, __TextOutArgs.Result
+2	47	294	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	294		release __TextOutMutex
+2	47	295	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	47	295	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	295		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 500
+2	47	298	#line 47 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	298	#line 8551 "NXCDefs.h"
+2	8552	298		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	301	#line 8551 "NXCDefs.h"
+2	48	301	#line 48 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	301	#line 48 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	49	301		set __signed_stack_001homescreen, 0
+2	48	304	#line 48 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	304	#line 48 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	49	304		set __signed_stack_002homescreen, 40
+2	48	307	#line 48 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	48	307	#line 48 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	49	307		strcat __strbufhomescreen, __constStr0015
+2	49	311	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	311		acquire __TextOutMutex
+2	49	312	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	312		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	49	314	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	314		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	49	316	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	316		set __TextOutArgs.Options, 0
+2	49	319	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	319		mov __TextOutArgs.Text, __strbufhomescreen
+2	49	321	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	321		syscall 13, __TextOutArgs
+2	49	324	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	324		mov __D0homescreen, __TextOutArgs.Result
+2	49	326	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	326		release __TextOutMutex
+2	49	327	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	49	327	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	327		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 2000
+2	49	330	#line 49 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	330	#line 8551 "NXCDefs.h"
+2	8552	330		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	333	#line 8551 "NXCDefs.h"
+2	50	333	#line 50 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	333	#line 50 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	51	333		set __signed_stack_001homescreen, 0
+2	50	336	#line 50 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	336	#line 50 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	51	336		set __signed_stack_002homescreen, 24
+2	50	339	#line 50 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	50	339	#line 50 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	51	339		strcat __strbufhomescreen, __constStr0016
+2	51	343	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	343		acquire __TextOutMutex
+2	51	344	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	344		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	51	346	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	346		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	51	348	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	348		set __TextOutArgs.Options, 0
+2	51	351	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	351		mov __TextOutArgs.Text, __strbufhomescreen
+2	51	353	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	353		syscall 13, __TextOutArgs
+2	51	356	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	356		mov __D0homescreen, __TextOutArgs.Result
+2	51	358	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	358		release __TextOutMutex
+2	51	359	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	51	359	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	359		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 500
+2	51	362	#line 51 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	362	#line 8551 "NXCDefs.h"
+2	8552	362		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	365	#line 8551 "NXCDefs.h"
+2	52	365	#line 52 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	365	#line 52 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	53	365		set __signed_stack_001homescreen, 0
+2	52	368	#line 52 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	368	#line 52 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	53	368		set __signed_stack_002homescreen, 16
+2	52	371	#line 52 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	52	371	#line 52 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	53	371		strcat __strbufhomescreen, __constStr0017
+2	53	375	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	375		acquire __TextOutMutex
+2	53	376	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	376		mov __TextOutArgs.Location.X, __signed_stack_001homescreen
+2	53	378	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	378		mov __TextOutArgs.Location.Y, __signed_stack_002homescreen
+2	53	380	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	380		set __TextOutArgs.Options, 0
+2	53	383	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	383		mov __TextOutArgs.Text, __strbufhomescreen
+2	53	385	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	385		syscall 13, __TextOutArgs
+2	53	388	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	388		mov __D0homescreen, __TextOutArgs.Result
+2	53	390	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	390		release __TextOutMutex
+2	53	391	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	53	391	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	54	391		set __Wait_7qG2_ms_7qG2_000_inline_homescreen, 5000
+2	53	394	#line 53 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	8551	394	#line 8551 "NXCDefs.h"
+2	8552	394		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_homescreen
+2	8551	397	#line 8551 "NXCDefs.h"
+2	54	397	#line 54 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	59	397	#line 59 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+2	60	397		subret __homescreen_return
+3	6678	0	#line 6678 "NXCDefs.h"
+3	6679	0	#pragma macro 6
+3	6679	0		acquire __PointOutMutex
+3	6679	1		mov __PointOutArgs.Location.X, __constVal200
+3	6679	3		mov __PointOutArgs.Location.Y, __constVal200
+3	6679	5		mov __PointOutArgs.Options, __constVal1
+3	6679	7		syscall 14, __PointOutArgs
+3	6679	10		release __PointOutMutex
+3	5029	11	#line 5029 "NXCDefs.h"
+3	6678	11	#line 6678 "NXCDefs.h"
+3	62	11	#line 62 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	62	11	#line 62 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	63	11		set __signed_stack_001angle1, 0
+3	62	14	#line 62 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	62	14	#line 62 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	63	14		set __signed_stack_002angle1, 48
+3	62	17	#line 62 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	62	17	#line 62 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	63	17		strcat __strbufangle1, __constStr0018
+3	64	21	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	21		acquire __TextOutMutex
+3	64	22	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	22		mov __TextOutArgs.Location.X, __signed_stack_001angle1
+3	64	24	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	24		mov __TextOutArgs.Location.Y, __signed_stack_002angle1
+3	64	26	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	26		set __TextOutArgs.Options, 0
+3	64	29	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	29		mov __TextOutArgs.Text, __strbufangle1
+3	64	31	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	31		syscall 13, __TextOutArgs
+3	64	34	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	34		mov __D0angle1, __TextOutArgs.Result
+3	64	36	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	36		release __TextOutMutex
+3	64	37	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	64	37	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	37		set __signed_stack_001angle1, 3
+3	64	40	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	64	40	#line 64 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	65	40		set __D0angle1, 1
+3	65	43	#line 65 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	43		acquire __RBtnMutex
+3	65	44	#line 65 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	44		mov __RBtnArgs.Index, __signed_stack_001angle1
+3	65	46	#line 65 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	46		mov __RBtnArgs.Reset, __D0angle1
+3	65	48	#line 65 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	48		syscall 20, __RBtnArgs
+3	65	51	#line 65 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	51		mov __D0angle1, __RBtnArgs.Pressed
+3	65	53	#line 65 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	53		release __RBtnMutex
+3	65	54	#line 65 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	54		not __D0angle1, __D0angle1
+3	66	57	#line 66 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	67	57		tst 5, __D0angle1, __D0angle1
+3	66	60	#line 66 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	67	60		brtst 4, __ASM_Label_586, __D0angle1
+3	66	63	#line 66 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	67	63		set __signed_stack_001angle1, 1
+3	66	66	#line 66 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	66	66	#line 66 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	67	66		set __D0angle1, 1
+3	67	69	#line 67 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	68	69		acquire __RBtnMutex
+3	67	70	#line 67 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	68	70		mov __RBtnArgs.Index, __signed_stack_001angle1
+3	67	72	#line 67 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	68	72		mov __RBtnArgs.Reset, __D0angle1
+3	67	74	#line 67 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	68	74		syscall 20, __RBtnArgs
+3	67	77	#line 67 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	68	77		mov __D0angle1, __RBtnArgs.Pressed
+3	67	79	#line 67 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	68	79		release __RBtnMutex
+3	68	80	#line 68 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	69	80		tst 5, __D0angle1, __D0angle1
+3	68	83	#line 68 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	69	83		brtst 4, __ASM_Label_599, __D0angle1
+3	6678	86	#line 6678 "NXCDefs.h"
+3	6679	86	#pragma macro 6
+3	6679	86		acquire __PointOutMutex
+3	6679	87		mov __PointOutArgs.Location.X, __constVal200
+3	6679	89		mov __PointOutArgs.Location.Y, __constVal200
+3	6679	91		mov __PointOutArgs.Options, __constVal1
+3	6679	93		syscall 14, __PointOutArgs
+3	6679	96		release __PointOutMutex
+3	5119	97	#line 5119 "NXCDefs.h"
+3	6678	97	#line 6678 "NXCDefs.h"
+3	69	97	#line 69 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	69	97	#line 69 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	70	97		set __signed_stack_001angle1, 0
+3	69	100	#line 69 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	69	100	#line 69 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	70	100		set __signed_stack_002angle1, 48
+3	69	103	#line 69 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	69	103	#line 69 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	70	103		strcat __strbufangle1, __constStr0018
+3	70	107	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	107		acquire __TextOutMutex
+3	70	108	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	108		mov __TextOutArgs.Location.X, __signed_stack_001angle1
+3	70	110	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	110		mov __TextOutArgs.Location.Y, __signed_stack_002angle1
+3	70	112	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	112		set __TextOutArgs.Options, 0
+3	70	115	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	115		mov __TextOutArgs.Text, __strbufangle1
+3	70	117	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	117		syscall 13, __TextOutArgs
+3	70	120	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	120		mov __D0angle1, __TextOutArgs.Result
+3	70	122	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	122		release __TextOutMutex
+3	70	123	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	70	123	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	123		mov __signed_stack_001angle1, a1
+3	70	125	#line 70 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	125	#line 71 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	72	125		set __D0angle1, 5
+3	71	128	#line 71 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	72	128		add a1, __signed_stack_001angle1, __D0angle1
+3	71	132	#line 71 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	132	#line 71 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	71	132	#line 71 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	72	132		set __Wait_7qG2_ms_7qG2_000_inline_angle1, 300
+3	71	135	#line 71 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	8551	135	#line 8551 "NXCDefs.h"
+3	8552	135		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_angle1
+3	8551	138	#line 8551 "NXCDefs.h"
+3	72	138	#line 72 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	72	138	#line 72 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	73	138		set __signed_stack_001angle1, 41
+3	72	141	#line 72 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	72	141	#line 72 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	73	141		set __signed_stack_002angle1, 16
+3	72	144	#line 72 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	72	144	#line 72 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	73	144		mov __D0angle1, a1
+3	73	146	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	146		acquire __TextOutMutex
+3	73	147	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	147		mov __TextOutArgs.Location.X, __signed_stack_001angle1
+3	73	149	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	149		mov __TextOutArgs.Location.Y, __signed_stack_002angle1
+3	73	151	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	151		set __TextOutArgs.Options, 0
+3	73	154	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	154		numtostr __TextOutArgs.Text, __D0angle1
+3	73	157	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	157		syscall 13, __TextOutArgs
+3	73	160	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	160		mov __D0angle1, __TextOutArgs.Result
+3	73	162	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	74	162		release __TextOutMutex
+3	73	163	#line 73 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	75	163	#line 75 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	75	163	#line 75 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	76	163		set __signed_stack_001angle1, 2
+3	75	166	#line 75 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	75	166	#line 75 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	76	166		set __D0angle1, 1
+3	76	169	#line 76 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	77	169		acquire __RBtnMutex
+3	76	170	#line 76 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	77	170		mov __RBtnArgs.Index, __signed_stack_001angle1
+3	76	172	#line 76 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	77	172		mov __RBtnArgs.Reset, __D0angle1
+3	76	174	#line 76 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	77	174		syscall 20, __RBtnArgs
+3	76	177	#line 76 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	77	177		mov __D0angle1, __RBtnArgs.Pressed
+3	76	179	#line 76 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	77	179		release __RBtnMutex
+3	77	180	#line 77 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	78	180		tst 5, __D0angle1, __D0angle1
+3	77	183	#line 77 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	78	183		brtst 4, __ASM_Label_620, __D0angle1
+3	6678	186	#line 6678 "NXCDefs.h"
+3	6679	186	#pragma macro 6
+3	6679	186		acquire __PointOutMutex
+3	6679	187		mov __PointOutArgs.Location.X, __constVal200
+3	6679	189		mov __PointOutArgs.Location.Y, __constVal200
+3	6679	191		mov __PointOutArgs.Options, __constVal1
+3	6679	193		syscall 14, __PointOutArgs
+3	6679	196		release __PointOutMutex
+3	5242	197	#line 5242 "NXCDefs.h"
+3	6678	197	#line 6678 "NXCDefs.h"
+3	78	197	#line 78 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	78	197	#line 78 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	79	197		set __signed_stack_001angle1, 0
+3	78	200	#line 78 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	78	200	#line 78 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	79	200		set __signed_stack_002angle1, 48
+3	78	203	#line 78 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	78	203	#line 78 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	79	203		strcat __strbufangle1, __constStr0018
+3	79	207	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	207		acquire __TextOutMutex
+3	79	208	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	208		mov __TextOutArgs.Location.X, __signed_stack_001angle1
+3	79	210	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	210		mov __TextOutArgs.Location.Y, __signed_stack_002angle1
+3	79	212	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	212		set __TextOutArgs.Options, 0
+3	79	215	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	215		mov __TextOutArgs.Text, __strbufangle1
+3	79	217	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	217		syscall 13, __TextOutArgs
+3	79	220	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	220		mov __D0angle1, __TextOutArgs.Result
+3	79	222	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	222		release __TextOutMutex
+3	79	223	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	79	223	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	223		mov __signed_stack_001angle1, a1
+3	79	225	#line 79 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	225	#line 80 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	81	225		set __D0angle1, 5
+3	80	228	#line 80 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	81	228		sub a1, __signed_stack_001angle1, __D0angle1
+3	80	232	#line 80 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	232	#line 80 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	80	232	#line 80 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	81	232		set __Wait_7qG2_ms_7qG2_000_inline_angle1, 300
+3	80	235	#line 80 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	8551	235	#line 8551 "NXCDefs.h"
+3	8552	235		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_angle1
+3	8551	238	#line 8551 "NXCDefs.h"
+3	81	238	#line 81 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	81	238	#line 81 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	82	238		set __signed_stack_001angle1, 41
+3	81	241	#line 81 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	81	241	#line 81 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	82	241		set __signed_stack_002angle1, 16
+3	81	244	#line 81 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	81	244	#line 81 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	82	244		mov __D0angle1, a1
+3	82	246	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	246		acquire __TextOutMutex
+3	82	247	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	247		mov __TextOutArgs.Location.X, __signed_stack_001angle1
+3	82	249	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	249		mov __TextOutArgs.Location.Y, __signed_stack_002angle1
+3	82	251	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	251		set __TextOutArgs.Options, 0
+3	82	254	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	254		numtostr __TextOutArgs.Text, __D0angle1
+3	82	257	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	257		syscall 13, __TextOutArgs
+3	82	260	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	260		mov __D0angle1, __TextOutArgs.Result
+3	82	262	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	83	262		release __TextOutMutex
+3	82	263	#line 82 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	85	263	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	85	263	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	263		jmp __ASM_Label_585
+3	85	265	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	85	265	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	265		set __signed_stack_001angle1, 3
+3	85	268	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	85	268	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	268		set __D0angle1, 1
+3	85	271	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	271		acquire __RBtnMutex
+3	85	272	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	272		mov __RBtnArgs.Index, __signed_stack_001angle1
+3	85	274	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	274		mov __RBtnArgs.Reset, __D0angle1
+3	85	276	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	276		syscall 20, __RBtnArgs
+3	85	279	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	279		mov __D0angle1, __RBtnArgs.Pressed
+3	85	281	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	281		release __RBtnMutex
+3	85	282	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	282		not __D0angle1, __D0angle1
+3	85	285	#line 85 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	285		not __D0angle1, __D0angle1
+3	86	288	#line 86 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	87	288		tst 5, __D0angle1, __D0angle1
+3	86	291	#line 86 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	87	291		brtst 4, __ASM_Label_636, __D0angle1
+3	86	294	#line 86 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	86	294	#line 86 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	87	294		jmp __ASM_Label_635
+3	86	296	#line 86 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	89	296	#line 89 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+3	90	296		subret __angle1_return
+4	6678	0	#line 6678 "NXCDefs.h"
+4	6679	0	#pragma macro 6
+4	6679	0		acquire __PointOutMutex
+4	6679	1		mov __PointOutArgs.Location.X, __constVal200
+4	6679	3		mov __PointOutArgs.Location.Y, __constVal200
+4	6679	5		mov __PointOutArgs.Options, __constVal1
+4	6679	7		syscall 14, __PointOutArgs
+4	6679	10		release __PointOutMutex
+4	5382	11	#line 5382 "NXCDefs.h"
+4	6678	11	#line 6678 "NXCDefs.h"
+4	92	11	#line 92 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	92	11	#line 92 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	93	11		set __signed_stack_001distance1, 0
+4	92	14	#line 92 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	92	14	#line 92 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	93	14		set __signed_stack_002distance1, 48
+4	92	17	#line 92 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	92	17	#line 92 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	93	17		strcat __strbufdistance1, __constStr0019
+4	94	21	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	21		acquire __TextOutMutex
+4	94	22	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	22		mov __TextOutArgs.Location.X, __signed_stack_001distance1
+4	94	24	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	24		mov __TextOutArgs.Location.Y, __signed_stack_002distance1
+4	94	26	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	26		set __TextOutArgs.Options, 0
+4	94	29	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	29		mov __TextOutArgs.Text, __strbufdistance1
+4	94	31	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	31		syscall 13, __TextOutArgs
+4	94	34	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	34		mov __D0distance1, __TextOutArgs.Result
+4	94	36	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	36		release __TextOutMutex
+4	94	37	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	94	37	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	37		set __signed_stack_001distance1, 3
+4	94	40	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	94	40	#line 94 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	95	40		set __D0distance1, 1
+4	95	43	#line 95 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	43		acquire __RBtnMutex
+4	95	44	#line 95 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	44		mov __RBtnArgs.Index, __signed_stack_001distance1
+4	95	46	#line 95 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	46		mov __RBtnArgs.Reset, __D0distance1
+4	95	48	#line 95 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	48		syscall 20, __RBtnArgs
+4	95	51	#line 95 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	51		mov __D0distance1, __RBtnArgs.Pressed
+4	95	53	#line 95 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	53		release __RBtnMutex
+4	95	54	#line 95 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	54		not __D0distance1, __D0distance1
+4	96	57	#line 96 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	97	57		tst 5, __D0distance1, __D0distance1
+4	96	60	#line 96 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	97	60		brtst 4, __ASM_Label_650, __D0distance1
+4	96	63	#line 96 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	97	63		set __signed_stack_001distance1, 1
+4	96	66	#line 96 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	96	66	#line 96 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	97	66		set __D0distance1, 1
+4	97	69	#line 97 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	98	69		acquire __RBtnMutex
+4	97	70	#line 97 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	98	70		mov __RBtnArgs.Index, __signed_stack_001distance1
+4	97	72	#line 97 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	98	72		mov __RBtnArgs.Reset, __D0distance1
+4	97	74	#line 97 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	98	74		syscall 20, __RBtnArgs
+4	97	77	#line 97 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	98	77		mov __D0distance1, __RBtnArgs.Pressed
+4	97	79	#line 97 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	98	79		release __RBtnMutex
+4	98	80	#line 98 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	99	80		tst 5, __D0distance1, __D0distance1
+4	98	83	#line 98 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	99	83		brtst 4, __ASM_Label_663, __D0distance1
+4	6678	86	#line 6678 "NXCDefs.h"
+4	6679	86	#pragma macro 6
+4	6679	86		acquire __PointOutMutex
+4	6679	87		mov __PointOutArgs.Location.X, __constVal200
+4	6679	89		mov __PointOutArgs.Location.Y, __constVal200
+4	6679	91		mov __PointOutArgs.Options, __constVal1
+4	6679	93		syscall 14, __PointOutArgs
+4	6679	96		release __PointOutMutex
+4	5472	97	#line 5472 "NXCDefs.h"
+4	6678	97	#line 6678 "NXCDefs.h"
+4	99	97	#line 99 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	99	97	#line 99 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	100	97		set __signed_stack_001distance1, 0
+4	99	100	#line 99 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	99	100	#line 99 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	100	100		set __signed_stack_002distance1, 48
+4	99	103	#line 99 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	99	103	#line 99 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	100	103		strcat __strbufdistance1, __constStr0019
+4	100	107	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	107		acquire __TextOutMutex
+4	100	108	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	108		mov __TextOutArgs.Location.X, __signed_stack_001distance1
+4	100	110	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	110		mov __TextOutArgs.Location.Y, __signed_stack_002distance1
+4	100	112	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	112		set __TextOutArgs.Options, 0
+4	100	115	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	115		mov __TextOutArgs.Text, __strbufdistance1
+4	100	117	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	117		syscall 13, __TextOutArgs
+4	100	120	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	120		mov __D0distance1, __TextOutArgs.Result
+4	100	122	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	122		release __TextOutMutex
+4	100	123	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	100	123	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	123		mov __signed_stack_001distance1, d1
+4	100	125	#line 100 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	125	#line 101 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	102	125		set __D0distance1, 5
+4	101	128	#line 101 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	102	128		add d1, __signed_stack_001distance1, __D0distance1
+4	101	132	#line 101 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	132	#line 101 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	101	132	#line 101 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	102	132		set __Wait_7qG2_ms_7qG2_000_inline_distance1, 300
+4	101	135	#line 101 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	8551	135	#line 8551 "NXCDefs.h"
+4	8552	135		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_distance1
+4	8551	138	#line 8551 "NXCDefs.h"
+4	103	138	#line 103 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	103	138	#line 103 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	104	138		set __signed_stack_001distance1, 41
+4	103	141	#line 103 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	103	141	#line 103 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	104	141		set __signed_stack_002distance1, 16
+4	103	144	#line 103 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	103	144	#line 103 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	104	144		mov __D0distance1, d1
+4	104	146	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	146		acquire __TextOutMutex
+4	104	147	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	147		mov __TextOutArgs.Location.X, __signed_stack_001distance1
+4	104	149	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	149		mov __TextOutArgs.Location.Y, __signed_stack_002distance1
+4	104	151	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	151		set __TextOutArgs.Options, 0
+4	104	154	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	154		numtostr __TextOutArgs.Text, __D0distance1
+4	104	157	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	157		syscall 13, __TextOutArgs
+4	104	160	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	160		mov __D0distance1, __TextOutArgs.Result
+4	104	162	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	105	162		release __TextOutMutex
+4	104	163	#line 104 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	106	163	#line 106 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	106	163	#line 106 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	107	163		set __signed_stack_001distance1, 2
+4	106	166	#line 106 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	106	166	#line 106 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	107	166		set __D0distance1, 1
+4	107	169	#line 107 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	108	169		acquire __RBtnMutex
+4	107	170	#line 107 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	108	170		mov __RBtnArgs.Index, __signed_stack_001distance1
+4	107	172	#line 107 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	108	172		mov __RBtnArgs.Reset, __D0distance1
+4	107	174	#line 107 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	108	174		syscall 20, __RBtnArgs
+4	107	177	#line 107 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	108	177		mov __D0distance1, __RBtnArgs.Pressed
+4	107	179	#line 107 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	108	179		release __RBtnMutex
+4	108	180	#line 108 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	109	180		tst 5, __D0distance1, __D0distance1
+4	108	183	#line 108 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	109	183		brtst 4, __ASM_Label_684, __D0distance1
+4	6678	186	#line 6678 "NXCDefs.h"
+4	6679	186	#pragma macro 6
+4	6679	186		acquire __PointOutMutex
+4	6679	187		mov __PointOutArgs.Location.X, __constVal200
+4	6679	189		mov __PointOutArgs.Location.Y, __constVal200
+4	6679	191		mov __PointOutArgs.Options, __constVal1
+4	6679	193		syscall 14, __PointOutArgs
+4	6679	196		release __PointOutMutex
+4	5595	197	#line 5595 "NXCDefs.h"
+4	6678	197	#line 6678 "NXCDefs.h"
+4	109	197	#line 109 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	109	197	#line 109 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	110	197		set __signed_stack_001distance1, 0
+4	109	200	#line 109 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	109	200	#line 109 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	110	200		set __signed_stack_002distance1, 48
+4	109	203	#line 109 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	109	203	#line 109 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	110	203		strcat __strbufdistance1, __constStr0019
+4	110	207	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	207		acquire __TextOutMutex
+4	110	208	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	208		mov __TextOutArgs.Location.X, __signed_stack_001distance1
+4	110	210	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	210		mov __TextOutArgs.Location.Y, __signed_stack_002distance1
+4	110	212	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	212		set __TextOutArgs.Options, 0
+4	110	215	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	215		mov __TextOutArgs.Text, __strbufdistance1
+4	110	217	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	217		syscall 13, __TextOutArgs
+4	110	220	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	220		mov __D0distance1, __TextOutArgs.Result
+4	110	222	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	222		release __TextOutMutex
+4	110	223	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	110	223	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	223		mov __signed_stack_001distance1, d1
+4	110	225	#line 110 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	225	#line 111 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	112	225		set __D0distance1, 5
+4	111	228	#line 111 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	112	228		sub d1, __signed_stack_001distance1, __D0distance1
+4	111	232	#line 111 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	232	#line 111 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	111	232	#line 111 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	112	232		set __Wait_7qG2_ms_7qG2_000_inline_distance1, 300
+4	111	235	#line 111 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	8551	235	#line 8551 "NXCDefs.h"
+4	8552	235		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_distance1
+4	8551	238	#line 8551 "NXCDefs.h"
+4	113	238	#line 113 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	113	238	#line 113 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	114	238		set __signed_stack_001distance1, 41
+4	113	241	#line 113 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	113	241	#line 113 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	114	241		set __signed_stack_002distance1, 16
+4	113	244	#line 113 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	113	244	#line 113 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	114	244		mov __D0distance1, d1
+4	114	246	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	246		acquire __TextOutMutex
+4	114	247	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	247		mov __TextOutArgs.Location.X, __signed_stack_001distance1
+4	114	249	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	249		mov __TextOutArgs.Location.Y, __signed_stack_002distance1
+4	114	251	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	251		set __TextOutArgs.Options, 0
+4	114	254	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	254		numtostr __TextOutArgs.Text, __D0distance1
+4	114	257	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	257		syscall 13, __TextOutArgs
+4	114	260	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	260		mov __D0distance1, __TextOutArgs.Result
+4	114	262	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	115	262		release __TextOutMutex
+4	114	263	#line 114 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	117	263	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	117	263	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	263		jmp __ASM_Label_649
+4	117	265	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	117	265	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	265		set __signed_stack_001distance1, 3
+4	117	268	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	117	268	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	268		set __D0distance1, 1
+4	117	271	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	271		acquire __RBtnMutex
+4	117	272	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	272		mov __RBtnArgs.Index, __signed_stack_001distance1
+4	117	274	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	274		mov __RBtnArgs.Reset, __D0distance1
+4	117	276	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	276		syscall 20, __RBtnArgs
+4	117	279	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	279		mov __D0distance1, __RBtnArgs.Pressed
+4	117	281	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	281		release __RBtnMutex
+4	117	282	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	282		not __D0distance1, __D0distance1
+4	117	285	#line 117 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	285		not __D0distance1, __D0distance1
+4	118	288	#line 118 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	119	288		tst 5, __D0distance1, __D0distance1
+4	118	291	#line 118 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	119	291		brtst 4, __ASM_Label_700, __D0distance1
+4	118	294	#line 118 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	118	294	#line 118 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	119	294		jmp __ASM_Label_699
+4	118	296	#line 118 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	121	296	#line 121 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+4	122	296		subret __distance1_return
+5	6678	0	#line 6678 "NXCDefs.h"
+5	6679	0	#pragma macro 6
+5	6679	0		acquire __PointOutMutex
+5	6679	1		mov __PointOutArgs.Location.X, __constVal200
+5	6679	3		mov __PointOutArgs.Location.Y, __constVal200
+5	6679	5		mov __PointOutArgs.Options, __constVal1
+5	6679	7		syscall 14, __PointOutArgs
+5	6679	10		release __PointOutMutex
+5	5735	11	#line 5735 "NXCDefs.h"
+5	6678	11	#line 6678 "NXCDefs.h"
+5	124	11	#line 124 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	124	11	#line 124 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	125	11		set __signed_stack_001angle2, 0
+5	124	14	#line 124 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	124	14	#line 124 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	125	14		set __signed_stack_002angle2, 48
+5	124	17	#line 124 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	124	17	#line 124 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	125	17		strcat __strbufangle2, __constStr0020
+5	126	21	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	21		acquire __TextOutMutex
+5	126	22	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	22		mov __TextOutArgs.Location.X, __signed_stack_001angle2
+5	126	24	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	24		mov __TextOutArgs.Location.Y, __signed_stack_002angle2
+5	126	26	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	26		set __TextOutArgs.Options, 0
+5	126	29	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	29		mov __TextOutArgs.Text, __strbufangle2
+5	126	31	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	31		syscall 13, __TextOutArgs
+5	126	34	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	34		mov __D0angle2, __TextOutArgs.Result
+5	126	36	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	36		release __TextOutMutex
+5	126	37	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	126	37	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	37		set __signed_stack_001angle2, 3
+5	126	40	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	126	40	#line 126 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	127	40		set __D0angle2, 1
+5	127	43	#line 127 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	43		acquire __RBtnMutex
+5	127	44	#line 127 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	44		mov __RBtnArgs.Index, __signed_stack_001angle2
+5	127	46	#line 127 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	46		mov __RBtnArgs.Reset, __D0angle2
+5	127	48	#line 127 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	48		syscall 20, __RBtnArgs
+5	127	51	#line 127 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	51		mov __D0angle2, __RBtnArgs.Pressed
+5	127	53	#line 127 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	53		release __RBtnMutex
+5	127	54	#line 127 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	54		not __D0angle2, __D0angle2
+5	128	57	#line 128 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	129	57		tst 5, __D0angle2, __D0angle2
+5	128	60	#line 128 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	129	60		brtst 4, __ASM_Label_714, __D0angle2
+5	128	63	#line 128 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	129	63		set __signed_stack_001angle2, 1
+5	128	66	#line 128 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	128	66	#line 128 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	129	66		set __D0angle2, 1
+5	129	69	#line 129 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	130	69		acquire __RBtnMutex
+5	129	70	#line 129 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	130	70		mov __RBtnArgs.Index, __signed_stack_001angle2
+5	129	72	#line 129 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	130	72		mov __RBtnArgs.Reset, __D0angle2
+5	129	74	#line 129 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	130	74		syscall 20, __RBtnArgs
+5	129	77	#line 129 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	130	77		mov __D0angle2, __RBtnArgs.Pressed
+5	129	79	#line 129 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	130	79		release __RBtnMutex
+5	130	80	#line 130 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	131	80		tst 5, __D0angle2, __D0angle2
+5	130	83	#line 130 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	131	83		brtst 4, __ASM_Label_727, __D0angle2
+5	6678	86	#line 6678 "NXCDefs.h"
+5	6679	86	#pragma macro 6
+5	6679	86		acquire __PointOutMutex
+5	6679	87		mov __PointOutArgs.Location.X, __constVal200
+5	6679	89		mov __PointOutArgs.Location.Y, __constVal200
+5	6679	91		mov __PointOutArgs.Options, __constVal1
+5	6679	93		syscall 14, __PointOutArgs
+5	6679	96		release __PointOutMutex
+5	5825	97	#line 5825 "NXCDefs.h"
+5	6678	97	#line 6678 "NXCDefs.h"
+5	131	97	#line 131 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	131	97	#line 131 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	132	97		set __signed_stack_001angle2, 0
+5	131	100	#line 131 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	131	100	#line 131 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	132	100		set __signed_stack_002angle2, 48
+5	131	103	#line 131 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	131	103	#line 131 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	132	103		strcat __strbufangle2, __constStr0020
+5	132	107	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	107		acquire __TextOutMutex
+5	132	108	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	108		mov __TextOutArgs.Location.X, __signed_stack_001angle2
+5	132	110	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	110		mov __TextOutArgs.Location.Y, __signed_stack_002angle2
+5	132	112	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	112		set __TextOutArgs.Options, 0
+5	132	115	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	115		mov __TextOutArgs.Text, __strbufangle2
+5	132	117	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	117		syscall 13, __TextOutArgs
+5	132	120	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	120		mov __D0angle2, __TextOutArgs.Result
+5	132	122	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	122		release __TextOutMutex
+5	132	123	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	132	123	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	123		mov __signed_stack_001angle2, a2
+5	132	125	#line 132 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	125	#line 133 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	134	125		set __D0angle2, 5
+5	133	128	#line 133 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	134	128		add a2, __signed_stack_001angle2, __D0angle2
+5	133	132	#line 133 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	132	#line 133 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	133	132	#line 133 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	134	132		set __Wait_7qG2_ms_7qG2_000_inline_angle2, 300
+5	133	135	#line 133 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	8551	135	#line 8551 "NXCDefs.h"
+5	8552	135		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_angle2
+5	8551	138	#line 8551 "NXCDefs.h"
+5	135	138	#line 135 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	135	138	#line 135 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	136	138		set __signed_stack_001angle2, 41
+5	135	141	#line 135 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	135	141	#line 135 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	136	141		set __signed_stack_002angle2, 16
+5	135	144	#line 135 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	135	144	#line 135 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	136	144		mov __D0angle2, a2
+5	136	146	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	146		acquire __TextOutMutex
+5	136	147	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	147		mov __TextOutArgs.Location.X, __signed_stack_001angle2
+5	136	149	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	149		mov __TextOutArgs.Location.Y, __signed_stack_002angle2
+5	136	151	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	151		set __TextOutArgs.Options, 0
+5	136	154	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	154		numtostr __TextOutArgs.Text, __D0angle2
+5	136	157	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	157		syscall 13, __TextOutArgs
+5	136	160	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	160		mov __D0angle2, __TextOutArgs.Result
+5	136	162	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	137	162		release __TextOutMutex
+5	136	163	#line 136 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	138	163	#line 138 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	138	163	#line 138 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	139	163		set __signed_stack_001angle2, 2
+5	138	166	#line 138 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	138	166	#line 138 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	139	166		set __D0angle2, 1
+5	139	169	#line 139 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	140	169		acquire __RBtnMutex
+5	139	170	#line 139 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	140	170		mov __RBtnArgs.Index, __signed_stack_001angle2
+5	139	172	#line 139 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	140	172		mov __RBtnArgs.Reset, __D0angle2
+5	139	174	#line 139 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	140	174		syscall 20, __RBtnArgs
+5	139	177	#line 139 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	140	177		mov __D0angle2, __RBtnArgs.Pressed
+5	139	179	#line 139 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	140	179		release __RBtnMutex
+5	140	180	#line 140 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	141	180		tst 5, __D0angle2, __D0angle2
+5	140	183	#line 140 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	141	183		brtst 4, __ASM_Label_748, __D0angle2
+5	6678	186	#line 6678 "NXCDefs.h"
+5	6679	186	#pragma macro 6
+5	6679	186		acquire __PointOutMutex
+5	6679	187		mov __PointOutArgs.Location.X, __constVal200
+5	6679	189		mov __PointOutArgs.Location.Y, __constVal200
+5	6679	191		mov __PointOutArgs.Options, __constVal1
+5	6679	193		syscall 14, __PointOutArgs
+5	6679	196		release __PointOutMutex
+5	5948	197	#line 5948 "NXCDefs.h"
+5	6678	197	#line 6678 "NXCDefs.h"
+5	141	197	#line 141 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	141	197	#line 141 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	142	197		set __signed_stack_001angle2, 0
+5	141	200	#line 141 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	141	200	#line 141 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	142	200		set __signed_stack_002angle2, 48
+5	141	203	#line 141 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	141	203	#line 141 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	142	203		strcat __strbufangle2, __constStr0020
+5	142	207	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	207		acquire __TextOutMutex
+5	142	208	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	208		mov __TextOutArgs.Location.X, __signed_stack_001angle2
+5	142	210	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	210		mov __TextOutArgs.Location.Y, __signed_stack_002angle2
+5	142	212	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	212		set __TextOutArgs.Options, 0
+5	142	215	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	215		mov __TextOutArgs.Text, __strbufangle2
+5	142	217	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	217		syscall 13, __TextOutArgs
+5	142	220	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	220		mov __D0angle2, __TextOutArgs.Result
+5	142	222	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	222		release __TextOutMutex
+5	142	223	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	142	223	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	223		mov __signed_stack_001angle2, a2
+5	142	225	#line 142 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	225	#line 143 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	144	225		set __D0angle2, 5
+5	143	228	#line 143 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	144	228		sub a2, __signed_stack_001angle2, __D0angle2
+5	143	232	#line 143 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	232	#line 143 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	143	232	#line 143 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	144	232		set __Wait_7qG2_ms_7qG2_000_inline_angle2, 300
+5	143	235	#line 143 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	8551	235	#line 8551 "NXCDefs.h"
+5	8552	235		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_angle2
+5	8551	238	#line 8551 "NXCDefs.h"
+5	145	238	#line 145 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	145	238	#line 145 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	146	238		set __signed_stack_001angle2, 41
+5	145	241	#line 145 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	145	241	#line 145 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	146	241		set __signed_stack_002angle2, 16
+5	145	244	#line 145 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	145	244	#line 145 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	146	244		mov __D0angle2, a2
+5	146	246	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	246		acquire __TextOutMutex
+5	146	247	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	247		mov __TextOutArgs.Location.X, __signed_stack_001angle2
+5	146	249	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	249		mov __TextOutArgs.Location.Y, __signed_stack_002angle2
+5	146	251	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	251		set __TextOutArgs.Options, 0
+5	146	254	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	254		numtostr __TextOutArgs.Text, __D0angle2
+5	146	257	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	257		syscall 13, __TextOutArgs
+5	146	260	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	260		mov __D0angle2, __TextOutArgs.Result
+5	146	262	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	147	262		release __TextOutMutex
+5	146	263	#line 146 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	149	263	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	149	263	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	263		jmp __ASM_Label_713
+5	149	265	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	149	265	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	265		set __signed_stack_001angle2, 3
+5	149	268	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	149	268	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	268		set __D0angle2, 1
+5	149	271	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	271		acquire __RBtnMutex
+5	149	272	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	272		mov __RBtnArgs.Index, __signed_stack_001angle2
+5	149	274	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	274		mov __RBtnArgs.Reset, __D0angle2
+5	149	276	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	276		syscall 20, __RBtnArgs
+5	149	279	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	279		mov __D0angle2, __RBtnArgs.Pressed
+5	149	281	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	281		release __RBtnMutex
+5	149	282	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	282		not __D0angle2, __D0angle2
+5	149	285	#line 149 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	285		not __D0angle2, __D0angle2
+5	150	288	#line 150 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	151	288		tst 5, __D0angle2, __D0angle2
+5	150	291	#line 150 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	151	291		brtst 4, __ASM_Label_764, __D0angle2
+5	150	294	#line 150 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	150	294	#line 150 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	151	294		jmp __ASM_Label_763
+5	150	296	#line 150 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	153	296	#line 153 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+5	154	296		subret __angle2_return
+6	6678	0	#line 6678 "NXCDefs.h"
+6	6679	0	#pragma macro 6
+6	6679	0		acquire __PointOutMutex
+6	6679	1		mov __PointOutArgs.Location.X, __constVal200
+6	6679	3		mov __PointOutArgs.Location.Y, __constVal200
+6	6679	5		mov __PointOutArgs.Options, __constVal1
+6	6679	7		syscall 14, __PointOutArgs
+6	6679	10		release __PointOutMutex
+6	6088	11	#line 6088 "NXCDefs.h"
+6	6678	11	#line 6678 "NXCDefs.h"
+6	156	11	#line 156 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	156	11	#line 156 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	157	11		set __signed_stack_001distance2, 0
+6	156	14	#line 156 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	156	14	#line 156 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	157	14		set __signed_stack_002distance2, 48
+6	156	17	#line 156 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	156	17	#line 156 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	157	17		strcat __strbufdistance2, __constStr0021
+6	158	21	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	21		acquire __TextOutMutex
+6	158	22	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	22		mov __TextOutArgs.Location.X, __signed_stack_001distance2
+6	158	24	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	24		mov __TextOutArgs.Location.Y, __signed_stack_002distance2
+6	158	26	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	26		set __TextOutArgs.Options, 0
+6	158	29	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	29		mov __TextOutArgs.Text, __strbufdistance2
+6	158	31	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	31		syscall 13, __TextOutArgs
+6	158	34	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	34		mov __D0distance2, __TextOutArgs.Result
+6	158	36	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	36		release __TextOutMutex
+6	158	37	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	158	37	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	37		set __signed_stack_001distance2, 3
+6	158	40	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	158	40	#line 158 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	159	40		set __D0distance2, 1
+6	159	43	#line 159 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	43		acquire __RBtnMutex
+6	159	44	#line 159 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	44		mov __RBtnArgs.Index, __signed_stack_001distance2
+6	159	46	#line 159 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	46		mov __RBtnArgs.Reset, __D0distance2
+6	159	48	#line 159 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	48		syscall 20, __RBtnArgs
+6	159	51	#line 159 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	51		mov __D0distance2, __RBtnArgs.Pressed
+6	159	53	#line 159 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	53		release __RBtnMutex
+6	159	54	#line 159 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	54		not __D0distance2, __D0distance2
+6	160	57	#line 160 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	161	57		tst 5, __D0distance2, __D0distance2
+6	160	60	#line 160 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	161	60		brtst 4, __ASM_Label_778, __D0distance2
+6	160	63	#line 160 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	161	63		set __signed_stack_001distance2, 1
+6	160	66	#line 160 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	160	66	#line 160 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	161	66		set __D0distance2, 1
+6	161	69	#line 161 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	162	69		acquire __RBtnMutex
+6	161	70	#line 161 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	162	70		mov __RBtnArgs.Index, __signed_stack_001distance2
+6	161	72	#line 161 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	162	72		mov __RBtnArgs.Reset, __D0distance2
+6	161	74	#line 161 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	162	74		syscall 20, __RBtnArgs
+6	161	77	#line 161 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	162	77		mov __D0distance2, __RBtnArgs.Pressed
+6	161	79	#line 161 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	162	79		release __RBtnMutex
+6	162	80	#line 162 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	163	80		tst 5, __D0distance2, __D0distance2
+6	162	83	#line 162 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	163	83		brtst 4, __ASM_Label_791, __D0distance2
+6	6678	86	#line 6678 "NXCDefs.h"
+6	6679	86	#pragma macro 6
+6	6679	86		acquire __PointOutMutex
+6	6679	87		mov __PointOutArgs.Location.X, __constVal200
+6	6679	89		mov __PointOutArgs.Location.Y, __constVal200
+6	6679	91		mov __PointOutArgs.Options, __constVal1
+6	6679	93		syscall 14, __PointOutArgs
+6	6679	96		release __PointOutMutex
+6	6178	97	#line 6178 "NXCDefs.h"
+6	6678	97	#line 6678 "NXCDefs.h"
+6	163	97	#line 163 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	163	97	#line 163 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	164	97		set __signed_stack_001distance2, 0
+6	163	100	#line 163 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	163	100	#line 163 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	164	100		set __signed_stack_002distance2, 48
+6	163	103	#line 163 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	163	103	#line 163 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	164	103		strcat __strbufdistance2, __constStr0021
+6	164	107	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	107		acquire __TextOutMutex
+6	164	108	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	108		mov __TextOutArgs.Location.X, __signed_stack_001distance2
+6	164	110	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	110		mov __TextOutArgs.Location.Y, __signed_stack_002distance2
+6	164	112	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	112		set __TextOutArgs.Options, 0
+6	164	115	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	115		mov __TextOutArgs.Text, __strbufdistance2
+6	164	117	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	117		syscall 13, __TextOutArgs
+6	164	120	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	120		mov __D0distance2, __TextOutArgs.Result
+6	164	122	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	122		release __TextOutMutex
+6	164	123	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	164	123	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	123		mov __signed_stack_001distance2, d2
+6	164	125	#line 164 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	125	#line 165 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	166	125		set __D0distance2, 5
+6	165	128	#line 165 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	166	128		add d2, __signed_stack_001distance2, __D0distance2
+6	165	132	#line 165 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	132	#line 165 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	165	132	#line 165 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	166	132		set __Wait_7qG2_ms_7qG2_000_inline_distance2, 300
+6	165	135	#line 165 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	8551	135	#line 8551 "NXCDefs.h"
+6	8552	135		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_distance2
+6	8551	138	#line 8551 "NXCDefs.h"
+6	167	138	#line 167 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	167	138	#line 167 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	168	138		set __signed_stack_001distance2, 41
+6	167	141	#line 167 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	167	141	#line 167 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	168	141		set __signed_stack_002distance2, 16
+6	167	144	#line 167 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	167	144	#line 167 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	168	144		mov __D0distance2, d2
+6	168	146	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	146		acquire __TextOutMutex
+6	168	147	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	147		mov __TextOutArgs.Location.X, __signed_stack_001distance2
+6	168	149	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	149		mov __TextOutArgs.Location.Y, __signed_stack_002distance2
+6	168	151	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	151		set __TextOutArgs.Options, 0
+6	168	154	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	154		numtostr __TextOutArgs.Text, __D0distance2
+6	168	157	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	157		syscall 13, __TextOutArgs
+6	168	160	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	160		mov __D0distance2, __TextOutArgs.Result
+6	168	162	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	169	162		release __TextOutMutex
+6	168	163	#line 168 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	170	163	#line 170 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	170	163	#line 170 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	171	163		set __signed_stack_001distance2, 2
+6	170	166	#line 170 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	170	166	#line 170 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	171	166		set __D0distance2, 1
+6	171	169	#line 171 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	172	169		acquire __RBtnMutex
+6	171	170	#line 171 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	172	170		mov __RBtnArgs.Index, __signed_stack_001distance2
+6	171	172	#line 171 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	172	172		mov __RBtnArgs.Reset, __D0distance2
+6	171	174	#line 171 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	172	174		syscall 20, __RBtnArgs
+6	171	177	#line 171 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	172	177		mov __D0distance2, __RBtnArgs.Pressed
+6	171	179	#line 171 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	172	179		release __RBtnMutex
+6	172	180	#line 172 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	173	180		tst 5, __D0distance2, __D0distance2
+6	172	183	#line 172 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	173	183		brtst 4, __ASM_Label_812, __D0distance2
+6	6678	186	#line 6678 "NXCDefs.h"
+6	6679	186	#pragma macro 6
+6	6679	186		acquire __PointOutMutex
+6	6679	187		mov __PointOutArgs.Location.X, __constVal200
+6	6679	189		mov __PointOutArgs.Location.Y, __constVal200
+6	6679	191		mov __PointOutArgs.Options, __constVal1
+6	6679	193		syscall 14, __PointOutArgs
+6	6679	196		release __PointOutMutex
+6	6301	197	#line 6301 "NXCDefs.h"
+6	6678	197	#line 6678 "NXCDefs.h"
+6	173	197	#line 173 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	173	197	#line 173 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	174	197		set __signed_stack_001distance2, 0
+6	173	200	#line 173 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	173	200	#line 173 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	174	200		set __signed_stack_002distance2, 48
+6	173	203	#line 173 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	173	203	#line 173 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	174	203		strcat __strbufdistance2, __constStr0021
+6	174	207	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	207		acquire __TextOutMutex
+6	174	208	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	208		mov __TextOutArgs.Location.X, __signed_stack_001distance2
+6	174	210	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	210		mov __TextOutArgs.Location.Y, __signed_stack_002distance2
+6	174	212	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	212		set __TextOutArgs.Options, 0
+6	174	215	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	215		mov __TextOutArgs.Text, __strbufdistance2
+6	174	217	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	217		syscall 13, __TextOutArgs
+6	174	220	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	220		mov __D0distance2, __TextOutArgs.Result
+6	174	222	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	222		release __TextOutMutex
+6	174	223	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	174	223	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	223		mov __signed_stack_001distance2, d2
+6	174	225	#line 174 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	225	#line 175 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	176	225		set __D0distance2, 5
+6	175	228	#line 175 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	176	228		sub d2, __signed_stack_001distance2, __D0distance2
+6	175	232	#line 175 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	232	#line 175 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	175	232	#line 175 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	176	232		set __Wait_7qG2_ms_7qG2_000_inline_distance2, 300
+6	175	235	#line 175 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	8551	235	#line 8551 "NXCDefs.h"
+6	8552	235		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_distance2
+6	8551	238	#line 8551 "NXCDefs.h"
+6	177	238	#line 177 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	177	238	#line 177 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	178	238		set __signed_stack_001distance2, 41
+6	177	241	#line 177 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	177	241	#line 177 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	178	241		set __signed_stack_002distance2, 16
+6	177	244	#line 177 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	177	244	#line 177 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	178	244		mov __D0distance2, d2
+6	178	246	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	246		acquire __TextOutMutex
+6	178	247	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	247		mov __TextOutArgs.Location.X, __signed_stack_001distance2
+6	178	249	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	249		mov __TextOutArgs.Location.Y, __signed_stack_002distance2
+6	178	251	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	251		set __TextOutArgs.Options, 0
+6	178	254	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	254		numtostr __TextOutArgs.Text, __D0distance2
+6	178	257	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	257		syscall 13, __TextOutArgs
+6	178	260	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	260		mov __D0distance2, __TextOutArgs.Result
+6	178	262	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	179	262		release __TextOutMutex
+6	178	263	#line 178 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	181	263	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	181	263	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	263		jmp __ASM_Label_777
+6	181	265	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	181	265	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	265		set __signed_stack_001distance2, 3
+6	181	268	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	181	268	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	268		set __D0distance2, 1
+6	181	271	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	271		acquire __RBtnMutex
+6	181	272	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	272		mov __RBtnArgs.Index, __signed_stack_001distance2
+6	181	274	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	274		mov __RBtnArgs.Reset, __D0distance2
+6	181	276	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	276		syscall 20, __RBtnArgs
+6	181	279	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	279		mov __D0distance2, __RBtnArgs.Pressed
+6	181	281	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	281		release __RBtnMutex
+6	181	282	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	282		not __D0distance2, __D0distance2
+6	181	285	#line 181 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	285		not __D0distance2, __D0distance2
+6	182	288	#line 182 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	183	288		tst 5, __D0distance2, __D0distance2
+6	182	291	#line 182 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	183	291		brtst 4, __ASM_Label_828, __D0distance2
+6	182	294	#line 182 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	182	294	#line 182 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	183	294		jmp __ASM_Label_827
+6	182	296	#line 182 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	186	296	#line 186 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+6	187	296		subret __distance2_return
+7	6678	0	#line 6678 "NXCDefs.h"
+7	6679	0	#pragma macro 6
+7	6679	0		acquire __PointOutMutex
+7	6679	1		mov __PointOutArgs.Location.X, __constVal200
+7	6679	3		mov __PointOutArgs.Location.Y, __constVal200
+7	6679	5		mov __PointOutArgs.Options, __constVal1
+7	6679	7		syscall 14, __PointOutArgs
+7	6679	10		release __PointOutMutex
+7	6441	11	#line 6441 "NXCDefs.h"
+7	6678	11	#line 6678 "NXCDefs.h"
+7	189	11	#line 189 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	189	11	#line 189 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	190	11		set __signed_stack_001angle3, 0
+7	189	14	#line 189 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	189	14	#line 189 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	190	14		set __signed_stack_002angle3, 48
+7	189	17	#line 189 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	189	17	#line 189 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	190	17		strcat __strbufangle3, __constStr0022
+7	191	21	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	21		acquire __TextOutMutex
+7	191	22	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	22		mov __TextOutArgs.Location.X, __signed_stack_001angle3
+7	191	24	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	24		mov __TextOutArgs.Location.Y, __signed_stack_002angle3
+7	191	26	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	26		set __TextOutArgs.Options, 0
+7	191	29	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	29		mov __TextOutArgs.Text, __strbufangle3
+7	191	31	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	31		syscall 13, __TextOutArgs
+7	191	34	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	34		mov __D0angle3, __TextOutArgs.Result
+7	191	36	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	36		release __TextOutMutex
+7	191	37	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	191	37	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	37		set __signed_stack_001angle3, 3
+7	191	40	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	191	40	#line 191 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	192	40		set __D0angle3, 1
+7	192	43	#line 192 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	43		acquire __RBtnMutex
+7	192	44	#line 192 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	44		mov __RBtnArgs.Index, __signed_stack_001angle3
+7	192	46	#line 192 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	46		mov __RBtnArgs.Reset, __D0angle3
+7	192	48	#line 192 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	48		syscall 20, __RBtnArgs
+7	192	51	#line 192 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	51		mov __D0angle3, __RBtnArgs.Pressed
+7	192	53	#line 192 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	53		release __RBtnMutex
+7	192	54	#line 192 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	54		not __D0angle3, __D0angle3
+7	193	57	#line 193 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	194	57		tst 5, __D0angle3, __D0angle3
+7	193	60	#line 193 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	194	60		brtst 4, __ASM_Label_842, __D0angle3
+7	193	63	#line 193 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	194	63		set __signed_stack_001angle3, 1
+7	193	66	#line 193 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	193	66	#line 193 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	194	66		set __D0angle3, 1
+7	194	69	#line 194 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	195	69		acquire __RBtnMutex
+7	194	70	#line 194 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	195	70		mov __RBtnArgs.Index, __signed_stack_001angle3
+7	194	72	#line 194 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	195	72		mov __RBtnArgs.Reset, __D0angle3
+7	194	74	#line 194 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	195	74		syscall 20, __RBtnArgs
+7	194	77	#line 194 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	195	77		mov __D0angle3, __RBtnArgs.Pressed
+7	194	79	#line 194 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	195	79		release __RBtnMutex
+7	195	80	#line 195 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	196	80		tst 5, __D0angle3, __D0angle3
+7	195	83	#line 195 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	196	83		brtst 4, __ASM_Label_855, __D0angle3
+7	6678	86	#line 6678 "NXCDefs.h"
+7	6679	86	#pragma macro 6
+7	6679	86		acquire __PointOutMutex
+7	6679	87		mov __PointOutArgs.Location.X, __constVal200
+7	6679	89		mov __PointOutArgs.Location.Y, __constVal200
+7	6679	91		mov __PointOutArgs.Options, __constVal1
+7	6679	93		syscall 14, __PointOutArgs
+7	6679	96		release __PointOutMutex
+7	6531	97	#line 6531 "NXCDefs.h"
+7	6678	97	#line 6678 "NXCDefs.h"
+7	196	97	#line 196 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	196	97	#line 196 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	197	97		set __signed_stack_001angle3, 0
+7	196	100	#line 196 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	196	100	#line 196 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	197	100		set __signed_stack_002angle3, 48
+7	196	103	#line 196 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	196	103	#line 196 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	197	103		strcat __strbufangle3, __constStr0022
+7	197	107	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	107		acquire __TextOutMutex
+7	197	108	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	108		mov __TextOutArgs.Location.X, __signed_stack_001angle3
+7	197	110	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	110		mov __TextOutArgs.Location.Y, __signed_stack_002angle3
+7	197	112	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	112		set __TextOutArgs.Options, 0
+7	197	115	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	115		mov __TextOutArgs.Text, __strbufangle3
+7	197	117	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	117		syscall 13, __TextOutArgs
+7	197	120	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	120		mov __D0angle3, __TextOutArgs.Result
+7	197	122	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	122		release __TextOutMutex
+7	197	123	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	197	123	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	123		mov __signed_stack_001angle3, a3
+7	197	125	#line 197 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	125	#line 198 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	199	125		set __D0angle3, 5
+7	198	128	#line 198 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	199	128		add a3, __signed_stack_001angle3, __D0angle3
+7	198	132	#line 198 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	132	#line 198 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	198	132	#line 198 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	199	132		set __Wait_7qG2_ms_7qG2_000_inline_angle3, 300
+7	198	135	#line 198 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	8551	135	#line 8551 "NXCDefs.h"
+7	8552	135		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_angle3
+7	8551	138	#line 8551 "NXCDefs.h"
+7	200	138	#line 200 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	200	138	#line 200 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	201	138		set __signed_stack_001angle3, 41
+7	200	141	#line 200 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	200	141	#line 200 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	201	141		set __signed_stack_002angle3, 16
+7	200	144	#line 200 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	200	144	#line 200 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	201	144		mov __D0angle3, a3
+7	201	146	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	146		acquire __TextOutMutex
+7	201	147	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	147		mov __TextOutArgs.Location.X, __signed_stack_001angle3
+7	201	149	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	149		mov __TextOutArgs.Location.Y, __signed_stack_002angle3
+7	201	151	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	151		set __TextOutArgs.Options, 0
+7	201	154	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	154		numtostr __TextOutArgs.Text, __D0angle3
+7	201	157	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	157		syscall 13, __TextOutArgs
+7	201	160	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	160		mov __D0angle3, __TextOutArgs.Result
+7	201	162	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	202	162		release __TextOutMutex
+7	201	163	#line 201 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	203	163	#line 203 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	203	163	#line 203 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	204	163		set __signed_stack_001angle3, 2
+7	203	166	#line 203 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	203	166	#line 203 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	204	166		set __D0angle3, 1
+7	204	169	#line 204 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	205	169		acquire __RBtnMutex
+7	204	170	#line 204 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	205	170		mov __RBtnArgs.Index, __signed_stack_001angle3
+7	204	172	#line 204 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	205	172		mov __RBtnArgs.Reset, __D0angle3
+7	204	174	#line 204 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	205	174		syscall 20, __RBtnArgs
+7	204	177	#line 204 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	205	177		mov __D0angle3, __RBtnArgs.Pressed
+7	204	179	#line 204 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	205	179		release __RBtnMutex
+7	205	180	#line 205 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	206	180		tst 5, __D0angle3, __D0angle3
+7	205	183	#line 205 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	206	183		brtst 4, __ASM_Label_876, __D0angle3
+7	6678	186	#line 6678 "NXCDefs.h"
+7	6679	186	#pragma macro 6
+7	6679	186		acquire __PointOutMutex
+7	6679	187		mov __PointOutArgs.Location.X, __constVal200
+7	6679	189		mov __PointOutArgs.Location.Y, __constVal200
+7	6679	191		mov __PointOutArgs.Options, __constVal1
+7	6679	193		syscall 14, __PointOutArgs
+7	6679	196		release __PointOutMutex
+7	6654	197	#line 6654 "NXCDefs.h"
+7	6678	197	#line 6678 "NXCDefs.h"
+7	206	197	#line 206 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	206	197	#line 206 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	207	197		set __signed_stack_001angle3, 0
+7	206	200	#line 206 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	206	200	#line 206 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	207	200		set __signed_stack_002angle3, 48
+7	206	203	#line 206 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	206	203	#line 206 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	207	203		strcat __strbufangle3, __constStr0022
+7	207	207	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	207		acquire __TextOutMutex
+7	207	208	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	208		mov __TextOutArgs.Location.X, __signed_stack_001angle3
+7	207	210	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	210		mov __TextOutArgs.Location.Y, __signed_stack_002angle3
+7	207	212	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	212		set __TextOutArgs.Options, 0
+7	207	215	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	215		mov __TextOutArgs.Text, __strbufangle3
+7	207	217	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	217		syscall 13, __TextOutArgs
+7	207	220	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	220		mov __D0angle3, __TextOutArgs.Result
+7	207	222	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	222		release __TextOutMutex
+7	207	223	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	207	223	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	223		mov __signed_stack_001angle3, a3
+7	207	225	#line 207 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	225	#line 208 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	209	225		set __D0angle3, 5
+7	208	228	#line 208 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	209	228		sub a3, __signed_stack_001angle3, __D0angle3
+7	208	232	#line 208 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	232	#line 208 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	208	232	#line 208 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	209	232		set __Wait_7qG2_ms_7qG2_000_inline_angle3, 300
+7	208	235	#line 208 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	8551	235	#line 8551 "NXCDefs.h"
+7	8552	235		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_angle3
+7	8551	238	#line 8551 "NXCDefs.h"
+7	210	238	#line 210 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	210	238	#line 210 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	211	238		set __signed_stack_001angle3, 41
+7	210	241	#line 210 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	210	241	#line 210 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	211	241		set __signed_stack_002angle3, 16
+7	210	244	#line 210 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	210	244	#line 210 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	211	244		mov __D0angle3, a3
+7	211	246	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	246		acquire __TextOutMutex
+7	211	247	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	247		mov __TextOutArgs.Location.X, __signed_stack_001angle3
+7	211	249	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	249		mov __TextOutArgs.Location.Y, __signed_stack_002angle3
+7	211	251	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	251		set __TextOutArgs.Options, 0
+7	211	254	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	254		numtostr __TextOutArgs.Text, __D0angle3
+7	211	257	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	257		syscall 13, __TextOutArgs
+7	211	260	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	260		mov __D0angle3, __TextOutArgs.Result
+7	211	262	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	212	262		release __TextOutMutex
+7	211	263	#line 211 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	214	263	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	214	263	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	263		jmp __ASM_Label_841
+7	214	265	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	214	265	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	265		set __signed_stack_001angle3, 3
+7	214	268	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	214	268	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	268		set __D0angle3, 1
+7	214	271	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	271		acquire __RBtnMutex
+7	214	272	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	272		mov __RBtnArgs.Index, __signed_stack_001angle3
+7	214	274	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	274		mov __RBtnArgs.Reset, __D0angle3
+7	214	276	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	276		syscall 20, __RBtnArgs
+7	214	279	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	279		mov __D0angle3, __RBtnArgs.Pressed
+7	214	281	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	281		release __RBtnMutex
+7	214	282	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	282		not __D0angle3, __D0angle3
+7	214	285	#line 214 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	285		not __D0angle3, __D0angle3
+7	215	288	#line 215 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	216	288		tst 5, __D0angle3, __D0angle3
+7	215	291	#line 215 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	216	291		brtst 4, __ASM_Label_892, __D0angle3
+7	215	294	#line 215 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	215	294	#line 215 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	216	294		jmp __ASM_Label_891
+7	215	296	#line 215 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	218	296	#line 218 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+7	219	296		subret __angle3_return
+8	6678	0	#line 6678 "NXCDefs.h"
+8	6679	0	#pragma macro 6
+8	6679	0		acquire __PointOutMutex
+8	6679	1		mov __PointOutArgs.Location.X, __constVal200
+8	6679	3		mov __PointOutArgs.Location.Y, __constVal200
+8	6679	5		mov __PointOutArgs.Options, __constVal1
+8	6679	7		syscall 14, __PointOutArgs
+8	6679	10		release __PointOutMutex
+8	6794	11	#line 6794 "NXCDefs.h"
+8	6678	11	#line 6678 "NXCDefs.h"
+8	221	11	#line 221 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	221	11	#line 221 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	222	11		set __signed_stack_001distance3, 0
+8	221	14	#line 221 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	221	14	#line 221 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	222	14		set __signed_stack_002distance3, 48
+8	221	17	#line 221 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	221	17	#line 221 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	222	17		strcat __strbufdistance3, __constStr0023
+8	223	21	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	21		acquire __TextOutMutex
+8	223	22	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	22		mov __TextOutArgs.Location.X, __signed_stack_001distance3
+8	223	24	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	24		mov __TextOutArgs.Location.Y, __signed_stack_002distance3
+8	223	26	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	26		set __TextOutArgs.Options, 0
+8	223	29	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	29		mov __TextOutArgs.Text, __strbufdistance3
+8	223	31	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	31		syscall 13, __TextOutArgs
+8	223	34	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	34		mov __D0distance3, __TextOutArgs.Result
+8	223	36	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	36		release __TextOutMutex
+8	223	37	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	223	37	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	37		set __signed_stack_001distance3, 3
+8	223	40	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	223	40	#line 223 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	224	40		set __D0distance3, 1
+8	224	43	#line 224 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	43		acquire __RBtnMutex
+8	224	44	#line 224 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	44		mov __RBtnArgs.Index, __signed_stack_001distance3
+8	224	46	#line 224 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	46		mov __RBtnArgs.Reset, __D0distance3
+8	224	48	#line 224 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	48		syscall 20, __RBtnArgs
+8	224	51	#line 224 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	51		mov __D0distance3, __RBtnArgs.Pressed
+8	224	53	#line 224 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	53		release __RBtnMutex
+8	224	54	#line 224 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	54		not __D0distance3, __D0distance3
+8	225	57	#line 225 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	226	57		tst 5, __D0distance3, __D0distance3
+8	225	60	#line 225 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	226	60		brtst 4, __ASM_Label_906, __D0distance3
+8	225	63	#line 225 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	226	63		set __signed_stack_001distance3, 1
+8	225	66	#line 225 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	225	66	#line 225 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	226	66		set __D0distance3, 1
+8	226	69	#line 226 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	227	69		acquire __RBtnMutex
+8	226	70	#line 226 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	227	70		mov __RBtnArgs.Index, __signed_stack_001distance3
+8	226	72	#line 226 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	227	72		mov __RBtnArgs.Reset, __D0distance3
+8	226	74	#line 226 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	227	74		syscall 20, __RBtnArgs
+8	226	77	#line 226 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	227	77		mov __D0distance3, __RBtnArgs.Pressed
+8	226	79	#line 226 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	227	79		release __RBtnMutex
+8	227	80	#line 227 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	228	80		tst 5, __D0distance3, __D0distance3
+8	227	83	#line 227 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	228	83		brtst 4, __ASM_Label_919, __D0distance3
+8	6678	86	#line 6678 "NXCDefs.h"
+8	6679	86	#pragma macro 6
+8	6679	86		acquire __PointOutMutex
+8	6679	87		mov __PointOutArgs.Location.X, __constVal200
+8	6679	89		mov __PointOutArgs.Location.Y, __constVal200
+8	6679	91		mov __PointOutArgs.Options, __constVal1
+8	6679	93		syscall 14, __PointOutArgs
+8	6679	96		release __PointOutMutex
+8	6884	97	#line 6884 "NXCDefs.h"
+8	6678	97	#line 6678 "NXCDefs.h"
+8	228	97	#line 228 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	228	97	#line 228 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	229	97		set __signed_stack_001distance3, 0
+8	228	100	#line 228 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	228	100	#line 228 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	229	100		set __signed_stack_002distance3, 48
+8	228	103	#line 228 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	228	103	#line 228 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	229	103		strcat __strbufdistance3, __constStr0023
+8	229	107	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	107		acquire __TextOutMutex
+8	229	108	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	108		mov __TextOutArgs.Location.X, __signed_stack_001distance3
+8	229	110	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	110		mov __TextOutArgs.Location.Y, __signed_stack_002distance3
+8	229	112	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	112		set __TextOutArgs.Options, 0
+8	229	115	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	115		mov __TextOutArgs.Text, __strbufdistance3
+8	229	117	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	117		syscall 13, __TextOutArgs
+8	229	120	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	120		mov __D0distance3, __TextOutArgs.Result
+8	229	122	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	122		release __TextOutMutex
+8	229	123	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	229	123	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	123		mov __signed_stack_001distance3, d3
+8	229	125	#line 229 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	125	#line 230 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	231	125		set __D0distance3, 5
+8	230	128	#line 230 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	231	128		add d3, __signed_stack_001distance3, __D0distance3
+8	230	132	#line 230 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	132	#line 230 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	230	132	#line 230 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	231	132		set __Wait_7qG2_ms_7qG2_000_inline_distance3, 300
+8	230	135	#line 230 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	8551	135	#line 8551 "NXCDefs.h"
+8	8552	135		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_distance3
+8	8551	138	#line 8551 "NXCDefs.h"
+8	232	138	#line 232 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	232	138	#line 232 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	233	138		set __signed_stack_001distance3, 41
+8	232	141	#line 232 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	232	141	#line 232 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	233	141		set __signed_stack_002distance3, 16
+8	232	144	#line 232 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	232	144	#line 232 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	233	144		mov __D0distance3, d3
+8	233	146	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	146		acquire __TextOutMutex
+8	233	147	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	147		mov __TextOutArgs.Location.X, __signed_stack_001distance3
+8	233	149	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	149		mov __TextOutArgs.Location.Y, __signed_stack_002distance3
+8	233	151	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	151		set __TextOutArgs.Options, 0
+8	233	154	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	154		numtostr __TextOutArgs.Text, __D0distance3
+8	233	157	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	157		syscall 13, __TextOutArgs
+8	233	160	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	160		mov __D0distance3, __TextOutArgs.Result
+8	233	162	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	234	162		release __TextOutMutex
+8	233	163	#line 233 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	235	163	#line 235 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	235	163	#line 235 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	236	163		set __signed_stack_001distance3, 2
+8	235	166	#line 235 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	235	166	#line 235 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	236	166		set __D0distance3, 1
+8	236	169	#line 236 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	237	169		acquire __RBtnMutex
+8	236	170	#line 236 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	237	170		mov __RBtnArgs.Index, __signed_stack_001distance3
+8	236	172	#line 236 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	237	172		mov __RBtnArgs.Reset, __D0distance3
+8	236	174	#line 236 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	237	174		syscall 20, __RBtnArgs
+8	236	177	#line 236 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	237	177		mov __D0distance3, __RBtnArgs.Pressed
+8	236	179	#line 236 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	237	179		release __RBtnMutex
+8	237	180	#line 237 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	238	180		tst 5, __D0distance3, __D0distance3
+8	237	183	#line 237 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	238	183		brtst 4, __ASM_Label_940, __D0distance3
+8	6678	186	#line 6678 "NXCDefs.h"
+8	6679	186	#pragma macro 6
+8	6679	186		acquire __PointOutMutex
+8	6679	187		mov __PointOutArgs.Location.X, __constVal200
+8	6679	189		mov __PointOutArgs.Location.Y, __constVal200
+8	6679	191		mov __PointOutArgs.Options, __constVal1
+8	6679	193		syscall 14, __PointOutArgs
+8	6679	196		release __PointOutMutex
+8	7007	197	#line 7007 "NXCDefs.h"
+8	6678	197	#line 6678 "NXCDefs.h"
+8	238	197	#line 238 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	238	197	#line 238 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	239	197		set __signed_stack_001distance3, 0
+8	238	200	#line 238 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	238	200	#line 238 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	239	200		set __signed_stack_002distance3, 48
+8	238	203	#line 238 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	238	203	#line 238 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	239	203		strcat __strbufdistance3, __constStr0023
+8	239	207	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	207		acquire __TextOutMutex
+8	239	208	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	208		mov __TextOutArgs.Location.X, __signed_stack_001distance3
+8	239	210	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	210		mov __TextOutArgs.Location.Y, __signed_stack_002distance3
+8	239	212	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	212		set __TextOutArgs.Options, 0
+8	239	215	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	215		mov __TextOutArgs.Text, __strbufdistance3
+8	239	217	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	217		syscall 13, __TextOutArgs
+8	239	220	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	220		mov __D0distance3, __TextOutArgs.Result
+8	239	222	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	222		release __TextOutMutex
+8	239	223	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	239	223	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	223		mov __signed_stack_001distance3, d3
+8	239	225	#line 239 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	225	#line 240 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	241	225		set __D0distance3, 5
+8	240	228	#line 240 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	241	228		sub d3, __signed_stack_001distance3, __D0distance3
+8	240	232	#line 240 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	232	#line 240 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	240	232	#line 240 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	241	232		set __Wait_7qG2_ms_7qG2_000_inline_distance3, 300
+8	240	235	#line 240 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	8551	235	#line 8551 "NXCDefs.h"
+8	8552	235		wait2 NA, __Wait_7qG2_ms_7qG2_000_inline_distance3
+8	8551	238	#line 8551 "NXCDefs.h"
+8	242	238	#line 242 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	242	238	#line 242 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	243	238		set __signed_stack_001distance3, 41
+8	242	241	#line 242 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	242	241	#line 242 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	243	241		set __signed_stack_002distance3, 16
+8	242	244	#line 242 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	242	244	#line 242 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	243	244		mov __D0distance3, d3
+8	243	246	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	246		acquire __TextOutMutex
+8	243	247	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	247		mov __TextOutArgs.Location.X, __signed_stack_001distance3
+8	243	249	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	249		mov __TextOutArgs.Location.Y, __signed_stack_002distance3
+8	243	251	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	251		set __TextOutArgs.Options, 0
+8	243	254	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	254		numtostr __TextOutArgs.Text, __D0distance3
+8	243	257	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	257		syscall 13, __TextOutArgs
+8	243	260	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	260		mov __D0distance3, __TextOutArgs.Result
+8	243	262	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	244	262		release __TextOutMutex
+8	243	263	#line 243 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	246	263	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	246	263	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	263		jmp __ASM_Label_905
+8	246	265	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	246	265	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	265		set __signed_stack_001distance3, 3
+8	246	268	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	246	268	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	268		set __D0distance3, 1
+8	246	271	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	271		acquire __RBtnMutex
+8	246	272	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	272		mov __RBtnArgs.Index, __signed_stack_001distance3
+8	246	274	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	274		mov __RBtnArgs.Reset, __D0distance3
+8	246	276	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	276		syscall 20, __RBtnArgs
+8	246	279	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	279		mov __D0distance3, __RBtnArgs.Pressed
+8	246	281	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	281		release __RBtnMutex
+8	246	282	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	282		not __D0distance3, __D0distance3
+8	246	285	#line 246 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	285		not __D0distance3, __D0distance3
+8	247	288	#line 247 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	248	288		tst 5, __D0distance3, __D0distance3
+8	247	291	#line 247 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	248	291		brtst 4, __ASM_Label_956, __D0distance3
+8	247	294	#line 247 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	247	294	#line 247 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	248	294		jmp __ASM_Label_955
+8	247	296	#line 247 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	251	296	#line 251 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+8	252	296		subret __distance3_return
+9	6678	0	#line 6678 "NXCDefs.h"
+9	6679	0	#pragma macro 6
+9	6679	0		acquire __PointOutMutex
+9	6679	1		mov __PointOutArgs.Location.X, __constVal200
+9	6679	3		mov __PointOutArgs.Location.Y, __constVal200
+9	6679	5		mov __PointOutArgs.Options, __constVal1
+9	6679	7		syscall 14, __PointOutArgs
+9	6679	10		release __PointOutMutex
+9	7147	11	#line 7147 "NXCDefs.h"
+9	6678	11	#line 6678 "NXCDefs.h"
+9	255	11	#line 255 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	255	11	#line 255 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	256	11		set __signed_stack_001displayAll, 3
+9	255	14	#line 255 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	255	14	#line 255 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	256	14		set __D0displayAll, 1
+9	256	17	#line 256 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	17		acquire __RBtnMutex
+9	256	18	#line 256 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	18		mov __RBtnArgs.Index, __signed_stack_001displayAll
+9	256	20	#line 256 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	20		mov __RBtnArgs.Reset, __D0displayAll
+9	256	22	#line 256 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	22		syscall 20, __RBtnArgs
+9	256	25	#line 256 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	25		mov __D0displayAll, __RBtnArgs.Pressed
+9	256	27	#line 256 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	27		release __RBtnMutex
+9	256	28	#line 256 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	28		not __D0displayAll, __D0displayAll
+9	257	31	#line 257 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	31		tst 5, __D0displayAll, __D0displayAll
+9	257	34	#line 257 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	34		brtst 4, __ASM_Label_966, __D0displayAll
+9	257	37	#line 257 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	37		set __signed_stack_001displayAll, 0
+9	257	40	#line 257 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	40	#line 257 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	40		set __signed_stack_002displayAll, 56
+9	257	43	#line 257 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	257	43	#line 257 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	43		strcat __strbufdisplayAll, __constStr0024
+9	258	47	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	47		acquire __TextOutMutex
+9	258	48	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	48		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	258	50	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	50		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	258	52	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	52		set __TextOutArgs.Options, 0
+9	258	55	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	55		mov __TextOutArgs.Text, __strbufdisplayAll
+9	258	57	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	57		syscall 13, __TextOutArgs
+9	258	60	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	60		mov __D0displayAll, __TextOutArgs.Result
+9	258	62	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	62		release __TextOutMutex
+9	258	63	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	63	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	63		set __signed_stack_001displayAll, 31
+9	258	66	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	66	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	66		set __signed_stack_002displayAll, 48
+9	258	69	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	258	69	#line 258 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	69		mov __D0displayAll, a1
+9	259	71	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	71		acquire __TextOutMutex
+9	259	72	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	72		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	259	74	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	74		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	259	76	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	76		set __TextOutArgs.Options, 0
+9	259	79	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	79		numtostr __TextOutArgs.Text, __D0displayAll
+9	259	82	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	82		syscall 13, __TextOutArgs
+9	259	85	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	85		mov __D0displayAll, __TextOutArgs.Result
+9	259	87	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	87		release __TextOutMutex
+9	259	88	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	88	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	88		set __signed_stack_001displayAll, 70
+9	259	91	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	91	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	91		set __signed_stack_002displayAll, 48
+9	259	94	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	259	94	#line 259 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	260	94		mov __D0displayAll, d1
+9	263	96	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	96		acquire __TextOutMutex
+9	263	97	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	97		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	263	99	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	99		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	263	101	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	101		set __TextOutArgs.Options, 0
+9	263	104	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	104		numtostr __TextOutArgs.Text, __D0displayAll
+9	263	107	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	107		syscall 13, __TextOutArgs
+9	263	110	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	110		mov __D0displayAll, __TextOutArgs.Result
+9	263	112	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	112		release __TextOutMutex
+9	263	113	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	263	113	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	113		set __signed_stack_001displayAll, 0
+9	263	116	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	263	116	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	116		set __signed_stack_002displayAll, 32
+9	263	119	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	263	119	#line 263 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	119		strcat __strbufdisplayAll, __constStr0025
+9	264	123	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	123		acquire __TextOutMutex
+9	264	124	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	124		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	264	126	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	126		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	264	128	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	128		set __TextOutArgs.Options, 0
+9	264	131	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	131		mov __TextOutArgs.Text, __strbufdisplayAll
+9	264	133	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	133		syscall 13, __TextOutArgs
+9	264	136	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	136		mov __D0displayAll, __TextOutArgs.Result
+9	264	138	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	138		release __TextOutMutex
+9	264	139	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	139	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	139		set __signed_stack_001displayAll, 31
+9	264	142	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	142	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	142		set __signed_stack_002displayAll, 24
+9	264	145	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	264	145	#line 264 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	145		mov __D0displayAll, a2
+9	265	147	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	147		acquire __TextOutMutex
+9	265	148	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	148		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	265	150	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	150		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	265	152	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	152		set __TextOutArgs.Options, 0
+9	265	155	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	155		numtostr __TextOutArgs.Text, __D0displayAll
+9	265	158	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	158		syscall 13, __TextOutArgs
+9	265	161	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	161		mov __D0displayAll, __TextOutArgs.Result
+9	265	163	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	163		release __TextOutMutex
+9	265	164	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	164	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	164		set __signed_stack_001displayAll, 70
+9	265	167	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	167	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	167		set __signed_stack_002displayAll, 24
+9	265	170	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	265	170	#line 265 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	266	170		mov __D0displayAll, d2
+9	268	172	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	172		acquire __TextOutMutex
+9	268	173	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	173		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	268	175	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	175		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	268	177	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	177		set __TextOutArgs.Options, 0
+9	268	180	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	180		numtostr __TextOutArgs.Text, __D0displayAll
+9	268	183	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	183		syscall 13, __TextOutArgs
+9	268	186	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	186		mov __D0displayAll, __TextOutArgs.Result
+9	268	188	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	188		release __TextOutMutex
+9	268	189	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	268	189	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	189		set __signed_stack_001displayAll, 0
+9	268	192	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	268	192	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	192		set __signed_stack_002displayAll, 8
+9	268	195	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	268	195	#line 268 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	195		strcat __strbufdisplayAll, __constStr0026
+9	269	199	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	199		acquire __TextOutMutex
+9	269	200	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	200		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	269	202	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	202		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	269	204	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	204		set __TextOutArgs.Options, 0
+9	269	207	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	207		mov __TextOutArgs.Text, __strbufdisplayAll
+9	269	209	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	209		syscall 13, __TextOutArgs
+9	269	212	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	212		mov __D0displayAll, __TextOutArgs.Result
+9	269	214	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	214		release __TextOutMutex
+9	269	215	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	215	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	215		set __signed_stack_001displayAll, 31
+9	269	218	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	218	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	218		set __signed_stack_002displayAll, 0
+9	269	221	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	269	221	#line 269 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	221		mov __D0displayAll, a3
+9	270	223	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	223		acquire __TextOutMutex
+9	270	224	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	224		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	270	226	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	226		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	270	228	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	228		set __TextOutArgs.Options, 0
+9	270	231	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	231		numtostr __TextOutArgs.Text, __D0displayAll
+9	270	234	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	234		syscall 13, __TextOutArgs
+9	270	237	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	237		mov __D0displayAll, __TextOutArgs.Result
+9	270	239	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	239		release __TextOutMutex
+9	270	240	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	240	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	240		set __signed_stack_001displayAll, 70
+9	270	243	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	243	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	243		set __signed_stack_002displayAll, 0
+9	270	246	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	270	246	#line 270 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	271	246		mov __D0displayAll, d3
+9	274	248	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	248		acquire __TextOutMutex
+9	274	249	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	249		mov __TextOutArgs.Location.X, __signed_stack_001displayAll
+9	274	251	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	251		mov __TextOutArgs.Location.Y, __signed_stack_002displayAll
+9	274	253	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	253		set __TextOutArgs.Options, 0
+9	274	256	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	256		numtostr __TextOutArgs.Text, __D0displayAll
+9	274	259	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	259		syscall 13, __TextOutArgs
+9	274	262	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	262		mov __D0displayAll, __TextOutArgs.Result
+9	274	264	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	264		release __TextOutMutex
+9	274	265	#line 274 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	265	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	265		jmp __ASM_Label_965
+9	275	267	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	267	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	267		set __signed_stack_001displayAll, 3
+9	275	270	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	275	270	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	270		set __D0displayAll, 1
+9	275	273	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	273		acquire __RBtnMutex
+9	275	274	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	274		mov __RBtnArgs.Index, __signed_stack_001displayAll
+9	275	276	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	276		mov __RBtnArgs.Reset, __D0displayAll
+9	275	278	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	278		syscall 20, __RBtnArgs
+9	275	281	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	281		mov __D0displayAll, __RBtnArgs.Pressed
+9	275	283	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	283		release __RBtnMutex
+9	275	284	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	284		not __D0displayAll, __D0displayAll
+9	275	287	#line 275 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	276	287		not __D0displayAll, __D0displayAll
+9	277	290	#line 277 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	278	290		tst 5, __D0displayAll, __D0displayAll
+9	277	293	#line 277 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	278	293		brtst 4, __ASM_Label_1022, __D0displayAll
+9	277	296	#line 277 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	277	296	#line 277 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	278	296		jmp __ASM_Label_1021
+9	277	298	#line 277 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	279	298	#line 279 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+9	280	298		subret __displayAll_return
+10	293	0	#line 293 "C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc"
+10	294	0		subret ____initialize_global_data_return
+#CLUMPS
+Clump	Name	Offset	File
+0	main	0	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+1	reset	23	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+2	homescreen	43	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+3	angle1	442	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+4	distance1	740	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+5	angle2	1038	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+6	distance2	1336	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+7	angle3	1634	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+8	distance3	1932	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+9	displayAll	2230	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
+10	__initialize_global_data	2530	C:\Users\user\Desktop\SEMESTER 8\AUTONOMOUS ROBOT\give it to me 2.nxc
