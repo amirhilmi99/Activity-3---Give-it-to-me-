@@ -1,0 +1,29 @@
+#define THRESHOLD 40
+
+int move_time, turn_time, right;
+task main()
+{
+
+ SetSensorLight(IN_3);
+ OnFwd(OUT_BC, 90);
+
+ while (true)
+ {
+ move_time = Random(600);
+ turn_time = Random(720);
+ if (Sensor(IN_3) < THRESHOLD){
+ Off(OUT_BC);
+ RotateMotor(OUT_BC,90,-90);
+ Wait(turn_time);
+ if(right>=3)
+ RotateMotorEx( OUT_BC, 50, turn_time,-100, true, true);
+ else
+ RotateMotorEx( OUT_BC, 50, turn_time,100, true, true);
+ right++;
+ if(right>6)
+ right=0;
+ OnFwd(OUT_BC, 90);
+ }
+ }
+
+}
