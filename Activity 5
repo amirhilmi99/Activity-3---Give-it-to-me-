@@ -1,0 +1,225 @@
+//#include "math.h"
+//#include "cmath";
+#include "NXCDefs.h"
+
+float x;
+float y;
+float angle;
+float hipotanus;
+string movementtype;
+
+//---------------------------------------------
+sub ask_X_coordinate()
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"X coordinate");
+
+while(!ButtonPressed(BTNCENTER,1))
+{
+if(ButtonPressed(BTNRIGHT,1))
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"X coordinate");
+x=x+1;
+Wait(300);
+NumOut(41,LCD_LINE6,x);
+}
+
+if(ButtonPressed(BTNLEFT,1))
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"X coordinate");
+x=x-1;
+Wait(300);
+NumOut(41,LCD_LINE6,x);
+}
+
+}
+until(!ButtonPressed(BTNCENTER,1));
+}
+//--------------------------------------------
+//receiving value d1 event
+sub ask_Y_coordinate()
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"Y coordinate");
+
+while(!ButtonPressed(BTNCENTER,1))
+{
+if(ButtonPressed(BTNRIGHT,1))
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"Y coordinate");
+y=y+1;
+Wait(300);
+NumOut(41,LCD_LINE6,y);
+}
+
+if(ButtonPressed(BTNLEFT,1))
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"Y coordinate");
+y=y-1;
+Wait(300);
+NumOut(41,LCD_LINE6,y);
+}
+
+}
+until(!ButtonPressed(BTNCENTER,1));
+}
+//---------------------------------------------
+sub askMovement(){
+  ClearScreen();
+TextOut(0,LCD_LINE2,"Choose movement");
+TextOut(0,LCD_LINE3,"right=shortest");
+TextOut(0,LCD_LINE4,"left=follow line");
+
+while(!ButtonPressed(BTNCENTER,1))
+{
+if(ButtonPressed(BTNRIGHT,1))
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"shortest");
+movementtype="shortest";
+Wait(300);
+NumOut(41,LCD_LINE6,y);
+}
+
+if(ButtonPressed(BTNLEFT,1))
+{
+ClearScreen();
+TextOut(0,LCD_LINE2,"follow line");
+movementtype="followline";
+Wait(300);
+NumOut(41,LCD_LINE6,y);
+}
+
+}
+until(!ButtonPressed(BTNCENTER,1));
+}
+//---------------------------------------------
+sub displayparameter(){
+  ClearScreen();
+  NumOut(0,LCD_LINE2,x);
+  NumOut(0,LCD_LINE3,y);
+  TextOut(0,LCD_LINE4,movementtype);
+  Wait(10000);
+ }
+//----------------------------------------------
+
+//----------------------------------------------
+//---------------------------------------------
+sub MovetoDestination(){
+  if(movementtype=="shortest"){
+  if(x==0){
+  RotateMotor(OUT_BC,50,30*y*22.5);
+  }
+  else if(y==0){
+  Wait(1000);
+  RotateMotorEx(OUT_BC, 50,90*2.2,100,true,true);
+  Wait(1000);
+  RotateMotor(OUT_BC,50,30*x*22.5);
+  }
+  else{
+  ClearScreen();
+  //hipotanus = findangleaiman(x,y);
+  //hipotanus = (hipotanus * 180) / 3.141592654;
+  Wait(1000);
+  float shortestdistance=sqrt((x*x)+(y*y));
+  RotateMotorEx(OUT_BC, 50,hipotanus*2.2,100,true,true);
+  Wait(1000);
+  RotateMotor(OUT_BC,50,30*shortestdistance*22.5);
+  }
+  }
+
+  else if(movementtype=="followline"){
+  if(x==0){
+  RotateMotor(OUT_BC,50,30*y*22.5);
+  }
+  else if(y==0){
+  Wait(1000);
+  RotateMotorEx(OUT_BC,50,90*2.2,100,true,true);
+  Wait(1000);
+  RotateMotor(OUT_BC,50,30*x*22.5);
+  }
+  else{
+  ClearScreen();
+  RotateMotor(OUT_BC,50,30*y*22.5)   ;
+  Wait(1000);
+  RotateMotorEx(OUT_BC,50,90*2.2,100,true,true);
+  Wait(1000);
+  RotateMotor(OUT_BC,50,30*x*22.5)   ;
+  }
+  }
+}
+//--------------------------------------------
+sub reset()
+{
+x=0;
+y=0;
+hipotanus=0;
+angle=0;
+movementtype="notset";
+}
+
+//-------------------------------------------
+sub findangleaiman(float horizontal,float vertical){
+   if(horizontal==1 && vertical==1){
+   hipotanus= 45;
+   }
+
+   else if(horizontal==1 && vertical==2){
+   hipotanus= 63;
+   }
+
+   else if(horizontal==1 && vertical==3){
+   hipotanus= 71;
+   }
+
+   else if(horizontal==2 && vertical==1){
+   hipotanus= 26;
+   }
+
+   else if(horizontal==2 && vertical==2){
+   hipotanus= 45;
+   }
+
+   else if(horizontal==2 && vertical==3){
+   hipotanus= 56;
+   }
+
+   else if(horizontal==3 && vertical==1){
+   hipotanus= 18;
+   }
+
+   else if(horizontal==3 && vertical==2){
+   hipotanus= 33;
+   }
+
+   else if(horizontal==3 && vertical==3){
+   hipotanus= 45  ;
+   }
+
+   else if(horizontal==4 && vertical==1){
+   hipotanus= 14 ;
+   }
+
+   else if(horizontal==4 && vertical==2){
+   hipotanus= 26 ;
+   }
+
+   else if(horizontal==4 && vertical==3){
+   hipotanus= 36;
+   }
+}
+//-------------------------------------------
+task main()
+{
+reset();
+ask_X_coordinate();
+ask_Y_coordinate();
+askMovement();
+displayparameter();
+findangleaiman(x,y);
+MovetoDestination();
+}
